@@ -1,4 +1,4 @@
-# Amy Kinter
+# Amy Kintner
 
 ## Mod 3 Deliverables:
 
