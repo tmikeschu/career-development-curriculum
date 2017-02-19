@@ -4,7 +4,7 @@
 
 * Link to Turing Alumni Portfolio: [here](https://www.turing.io/alumni/megan-talbot)
 
-* Link to overview of 6 Cold Outreach emails following this [format](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md):
+* Link to overview of 6 Cold Outreach emails following this [format](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md): 
 [here](https://gist.github.com/meganft/a287ca83ae5e3d55f0e485887386296a)
 
 * Link to [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md) in this [format](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/template.markdown):
