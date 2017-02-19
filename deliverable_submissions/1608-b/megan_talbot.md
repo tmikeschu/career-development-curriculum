@@ -9,5 +9,5 @@
 
 * Link to [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md) in this [format](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/template.markdown):
 
-* Summary of participation in a actual interview or practice interview that includes details of the company, interviewer’s name, and their title:
-Had 1 practice technical interview with Ian Douglas, in addition to his Monday night hangout. Also have another scheduled with Ellie Morris on the Monday after graduation.  Had 1 phone screen interview with Ibotta.
+* Summary of participation in a actual interview or practice interview that includes details of the company, interviewer’s name, and their title:<br>
+Had 1 practice technical interview with Ian Douglas, in addition to his Monday night hangout. Also have another scheduled with Ellie Schneiders, Senior Ruby On Rails Developer at Perch on the Monday after graduation.  Had 1 phone screen interview with the HR team at Ibotta.
