@@ -2,15 +2,7 @@
 
 Session Time: 90 minutes
 
-Slides for this lesson
-
-Outline: 90 minutes (60 minutes of group work, 30 minutes of planning)
--Intro to strategizing 5 mins
--Flower Exercise: Define who you are; what you're looking for (5 mins. writing, 5 mins. sharing)
--Create list of priorities, both must-haves and nice-to-haves from Flower Exercise (Allison models, reflection on own followed by sharing with partner, then back to reflecting on own) - 20 mins
--Now you have an idea of where you want to focus your energies, start sketching out a plan; start with goal-setting (looking ahead at PD deliverables/expectations in M4), scheduling, how you will use your network (both warm and cold outreach)
-	-I do, then time for we do (25 mins total)
--Rest of the session is work time -- Stations? Scheduling (how to hold each other accountable, 
+[Slides for this lesson]()
 
 ## Objectives
 * Identify your top priorities in your job search during Module 4
@@ -63,7 +55,7 @@ Using your Flower Exercise, sketch out a list of things you'll be looking for in
 
 **Pair & Share:** Share your lists with the same partner you discussed your story with. Do your partner's "must-haves" align with their goals and career trajectory? 
 
-## Step Three: Create a PLan & Schedule
+## Step Three: Create a Plan & Schedule
 Job searching takes time, and you'll need to structure your search as part of your daily responsibilities. Both for module four and post-graduation, you'll need to build out a schedule that includes time for research, cold and warm outreach, networking, and coding. This schedule will look differently when you're in Turing versus after you complete Turing. For now, we'll focus on a plan for Module 4. 
 
 **Tips for sticking to your schedule:** 
@@ -88,13 +80,13 @@ Setting goals will help guide your final set of scheduling and priorities. Set y
 * Based on the weekly goal(s), what would need to happen on a daily basis to reach the weekly goal(s)? 
 	* If I want at least 2 new conversations per week, I would need to send at least 1 cold/warm outreach emails per day
 
-**Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks aligned with your goals. Make adjustments as needed -- it's so important to be flexible, kind to yourself, and realistic with time.
+**Goal-setting Tips:** Spend thirty minutes each day and an hour each week assessing how your tasks align with your goals. Make adjustments as needed -- it's so important to be flexible, kind to yourself, and realistic with time.
 
 ### Your Turn
 Identify your longterm goal first -- what do you want to have accomplished by the last day of Module 4? Then break it down into smaller goals of what you can accomplish.
 
 **Keep in mind:** 
-Your Mod 4 deliverables include 6 cold outreach emails, participating in an actual or practice interview, and completing what is known at [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md). Since you will need to complete those deliverables, include them in your Module 4 plan!
+Your Mod 4 deliverables include 6 cold outreach emails, participating in an actual or practice interview, and completing what is known as [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md). Since you will need to complete those deliverables, include them in your Module 4 plan!
 
 ## Closing
 * Be flexible, kind to yourself, and realistic with your time. 
