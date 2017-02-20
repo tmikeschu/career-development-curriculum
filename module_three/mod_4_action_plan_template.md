@@ -1,25 +1,26 @@
 # Template: Module 4 Action Plan 
 *This is your deliverable from the [Job Search Strategies I session](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)*
 
-Module 4 Goals
+## Module 4 Goals
+*List your top 3-5 goals of what you want to accomplish by the end of module 4*
 
-Strong enough JS skills where I can/could do all Mod 1 projects in JS
+Examples:
+
+* 
+
+* Strong enough JS skills where I can/could do all Mod 1 projects in JS
 Understand Node
 Can design a responsive HTML page without needing to reference documentation
 Can develop the guts of a D3 chart without needing to reference documentation
 Start to develop a professional network
-Strategy To Achieve Goals:
 
-Coding:
+### Strategy To Achieve Goals:
+Outline below 3
+#### Coding (both including your module 4 curriculum and anything outside of it):
 
-Make all of my police charts in 100% D3 - without another library
-Learn SASS & learn to build better/modular/responsive CSS - redo all views in my Mod3 personal project
-Learn Node properly
-Make one animated D3 chart
-Refresh Ruby skills
-Work through Eloquent Javascript
-Read Bootstrap docs
-Professional Development/Network:
+#### Opportunities Research:
+
+#### Cold Outreach/Network:
 
 Meet 2-4 new people in the field each week
 Identify 1 job I’m interested in per week (and apply)
@@ -27,12 +28,15 @@ Meet with at least 1 Turing colleague per week
 Volunteer at B&G club 2x’s a month
 Code for Denver 2x’s a month
 1 Blog Post
-Life:
 
-Clean my house
-Transition my closet to winter
-Live music 1x per week
-Weekly Activities:
+#### Personal Branding:
+
+
+### Timeline:
+
+#### Module Activities:
+
+#### Weekly Activities:
 
 Week 1: 11/14-11/20
 
@@ -143,8 +147,4 @@ Meet with at least 1 Turing colleague per week
 Volunteer at B&G club 2x’s a month
 Code for Denver 2x’s a month
 Blog Post
-Life:
 
-Live music 1x per week
-organize move back to San Diego
-MOVE
