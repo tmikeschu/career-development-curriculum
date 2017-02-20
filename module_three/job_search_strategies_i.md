@@ -14,8 +14,7 @@ Outline: 90 minutes (60 minutes of group work, 30 minutes of planning)
 
 ## Objectives
 * Identify your top priorities in your job search during Module 4
-* Identify and plan with effective job search strategies
-* Learn when to pivot strategies
+* Identify and utilize effective job search strategies
 * Devise an action plan for Module 4 (you will use this plan when meeting with Meg)
 
 ## Deliverable
@@ -77,7 +76,7 @@ Job searching takes time, and you'll need to structure your search as part of yo
 ### Your Turn
 Create a draft of a schedule, including blocking off time on your calendar *now*.
 
-## Goal Setting
+## Step Four: Goal Setting
 Setting goals will help guide your final set of scheduling and priorities. Set your end of Module 4 goal first. For example, that could be: *"receive job offer by the end of Module 4 Week 6."* From there, work backwards to identify your module, weekly, and daily goals. Be mindful that there may need to be some adjustments to goals as you get into the job search. *That is okay and completely normal.* This plan is something that you'll provide to Meg, but she will work with you on any adjustments that need to be made. 
 
 **Strategy to approach this:** After setting your end of module goal, build a backwards plan.
