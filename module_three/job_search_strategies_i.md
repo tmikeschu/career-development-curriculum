@@ -1,5 +1,7 @@
 # Job Search Strategies I
 
+Session Time: 90 minutes
+
 Slides for this lesson
 
 Outline: 90 minutes (60 minutes of group work, 30 minutes of planning)
@@ -63,24 +65,22 @@ Using your Flower Exercise, sketch out a list of things you'll be looking for in
 **Pair & Share:** Share your lists with the same partner you discussed your story with. Do your partner's "must-haves" align with their goals and career trajectory? 
 
 ## Step Three: Create a PLan & Schedule
-Job searching takes time, and you'll need to structure your search as if it is part of your daily responsibilities. Both for module four and post-graduation, you'll need to build out a schedule that includes time for research, cold and warm outreach, networking, and coding. This schedule will look differently when you're in Turing versus after you complete Turing.
+Job searching takes time, and you'll need to structure your search as part of your daily responsibilities. Both for module four and post-graduation, you'll need to build out a schedule that includes time for research, cold and warm outreach, networking, and coding. This schedule will look differently when you're in Turing versus after you complete Turing. For now, we'll focus on a plan for Module 4. 
 
-
+**Tips for sticking to your schedule:** 
 
 ### Your Turn
-Create a plan
+Create a draft of a plan
 - During Turing:
 	- Look at the time you have to dedicate to job searching during your time at Turing
 	- Identify how many hours per week you can spend on job searching, even if it is only two hours per week
 	- Block that time off on your calendar
 	- Set goals for tasks to complete during that time based on weekly goals
-- After Turing:
-	- Build out a 40 hour week divided between research, outreach, networking, and coding. Ideally two (2) - four (4) hours per day will be dedicated to code
-	- Block these times out on your calendar to keep you moving along to the next task based on the timebox you've determine is adequate
-	- Assess what worked with this schedule and what didn't at the end of each week. Make adjustments as needed
 
 ## Goal Setting
-Goals will help guide the scheduling and priorities. Set your long term goal first. For instance, *"accept job offer within six weeks of graduating from Turing."* From there, work backwards to identify your monthly, weekly, and daily goals. Be mindful that there may need to be some adjustments to goals as you get into the job search. That is okay and completely normal. 
+Setting goals will help guide your final set of scheduling and priorities. Set your end of Module 4 goal first. For example, that could be: *"receive job offer by the end of Module 4 Week 6."* From there, work backwards to identify your module, weekly, and daily goals. Be mindful that there may need to be some adjustments to goals as you get into the job search. *That is okay and completely normal.* This plan is something that you'll provide to Meg, but she will work with you on any adjustments that need to be made. 
+
+Creating goals 
 
 ### Your Turn
 - When is your absolutely cut off for completing your job search?
@@ -91,38 +91,6 @@ Goals will help guide the scheduling and priorities. Set your long term goal fir
 - Spend thirty minutes each day and an hour each week assessing how your tasks aligned with your goals. Make adjustments as needed -- it's so important to be flexible, kind to yourself, and realistic with time.
 
 
-## More tips from Meg:
-
-## Scheduling
-
-### During Turing:
-
-	* How are you spending your time?
-		* Code
-		* Outreach
-		* Research
-		* Network
-	* When do you have time to dedicate to Job search?                                      
-		-evenings, weekend, morning, around project work time
-	* How many hours can you afford to spend on job search?                               
-		-Ideally 2 hours/wk minimum
-	* Block that time off on your calendar
-	* Set goals for tasks to complete during that time                                       
-		-research, outreach, network
-	* Allocate a timebox for each task. 
-	* Manage timeboxes via calendar
-	* Respect the schedule                                                               
-		- Can be flexible but make sure you are making time for every task everyday. If you short a task one day, give it extra time the next.
-	* Respect how you like to schedule                                              
-		-When are you most/least focused? Do you like having a precise schedule or varying schedule?
-	* Make weekly assessments of the schedule and what did and didn’t work and adjust as needed. 
-
-### After Turing:
-	* Design a 40 hour work week that addresses  ALL tasks 
-		* Code
-		* Outreach
-		* Research 
-		* Network
 
 ### Goal Setting
 Set your long term goal first and work backwards identifying monthly, weekly and daily goals.                                                         "Accept job offer within 8 weeks of graduating from Turing." 
@@ -135,9 +103,8 @@ Set your long term goal first and work backwards identifying monthly, weekly and
 			* During-Need at least 1 cold outreach email/day
 			* After-Need at least 5 cold/warm outreach emails are needed/day. 
 
-Be flexible, kind to yourself and realistic with your time. 
-If something isn’t working, try something different
-
-Goals guide the schedule and priorities
-[Example](https://gist.github.com/kjs222/7ef5e79a71eedf9d8c8d401da1e687c7)
+#### Reminders
+* Be flexible, kind to yourself, and realistic with your time. 
+* If something isn’t working, try something different
+* Schedule a 1-on-1 with Meg to discuss this plan and any adjustments at [https://megstew.youcanbook.me}(https://megstew.youcanbook.me) password: complete
 
