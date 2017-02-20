@@ -106,5 +106,5 @@ Set your long term goal first and work backwards identifying monthly, weekly and
 #### Reminders
 * Be flexible, kind to yourself, and realistic with your time. 
 * If something isn’t working, try something different
-* Schedule a 1-on-1 with Meg to discuss this plan and any adjustments at [https://megstew.youcanbook.me}(https://megstew.youcanbook.me) password: complete
+* Schedule a 1-on-1 with Meg to discuss this plan and any adjustments at [https://megstew.youcanbook.me](https://megstew.youcanbook.me) password: complete
 
