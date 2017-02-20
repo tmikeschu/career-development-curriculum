@@ -9,6 +9,7 @@ Module One:
 * Feedback I
 * Storytelling & Strengths
 * Branding
+* Optional: Stress Management sessions (2 per module)
 
 Module Two:
 
