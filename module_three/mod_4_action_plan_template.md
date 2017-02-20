@@ -4,7 +4,6 @@
 ## Module 4 Goals
 *List your longterm goal(s) of what you want to accomplish by the end of module 4*
 
-
 ### Strategy To Achieve Goals:
 In this section, break down your longterm goal into smaller goals that you want to work on each week and/or day
 
@@ -12,31 +11,23 @@ In this section, break down your longterm goal into smaller goals that you want 
 *How will you focus your learning to accomplish your longterm goal?*
 
 #### Opportunities Research:
-*How will you continue researching companies and contacts? How will you utilize your Trello Board? 
+*How will you continue researching companies and contacts? How will you utilize your Trello Board?* 
 
 #### Cold Outreach/Network:
-*
-
-Examples:
-* Meet 2-4 new people in the field each week
-* Identify 1 job I’m interested in per week (and apply)
-Meet with at least 1 Turing colleague per week
-Volunteer at B&G club 2x’s a month
-Code for Denver 2x’s a month
+*Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
 
 #### Personal Branding (This section is optional):
 *How might personal branding pieces help you towards your goal?*
 
-Examples:
-
-* Write 2 blog posts during the module
-* Update LinkedIn summary
-* Get a new headshot
-
 ### Timeline:
+*What will you do when?*
 
-#### Module Activities:
+#### Module Tasks:
+*What will you do throughout the module?*
 
-#### Weekly Activities:
+#### Weekly Tasks:
+*What will you do throughout each week?*
 
 ## What I Will Work on with Meg
+*What advice do you need? What would be helpful to talk through? Let Meg know here!*
+
