@@ -1,19 +1,34 @@
-# Job Search Strategies
+# Job Search Strategies I
 
-Reference [Job Search Strategy Planning](https://github.com/turingschool/professional_skills/blob/master/files/job-search-strategy-planning.pdf) for refresher
+Slides for this lesson
 
+Outline:
+-Intro to strategizing
+-Share takeaways from the Flower Exercise
+-
 
-## Learning Competencies
-- Planning effective job search tactics
-- Assessing success of a job search
-- Learn when to pivot strategies
+## Objectives
+* Identify your top 3 priorities in your job search
+* Identify and plan with effective job search strategies
+* Learn when to pivot strategies
+* Devise an action plan for Module 4 (you will use this plan when meeting with Meg)
+
+## Deliverable
+By the beginning of week 6, you should submit your Module 4 Job Search Action Plan to Meg via the Career Development Submissions folder [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 # Opening
-What do you want to do after you complete Turing? What do you want to do on a daily basis? What do you want from your career in the longterm? How do you see yourself contributing to technology? Will you work on a product that impacts your learning exponentially? Are you open to traveling for consulting or do you prefer to stay put in a single location?
+Job searching brings up a lot of questions:
 
-Analyzing these 
+* What do you want to do after you complete Turing? 
+* What do you want to do on a daily basis? 
+* What do you want from your career in the longterm? 
+* How do you see yourself contributing to technology? 
+* Will you work on a product that impacts your learning exponentially? 
+* Are you open to traveling for consulting or do you prefer to stay put in a single location?
 
-## Focus on Priorities
+Analyzing these... 
+
+## Step One: Focus on Priorities
 Similar to apartment shopping, it's important to have a list of must-have's and nice-to-have's. Know what is a deal breaker and when you are being too picky. In the case that you do not find a position with all the items on your list, what are you willing to forego for a great first job as a developer?
 
 Priorities could include: physical location, industry, size of company, team culture, diversity makeup, technologies, flexibility, salary amount, types of benefits, mentorship, etc. 
