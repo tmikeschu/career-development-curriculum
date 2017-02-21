@@ -4,7 +4,7 @@
 
 * Link to Turing Alumni Portfolio: https://www.turing.io/alumni/jon-kimble
 
-* Link to overview of 6 Cold Outreach emails following this [Jon Kimble's Cold Outreach](https://gist.github.com/jbkimble/b06b6508fb380847a2398d51c42d2e82):
+* Link to overview of 6 Cold Outreach emails: [Jon Kimble's Cold Outreach](https://gist.github.com/jbkimble/b06b6508fb380847a2398d51c42d2e82):
 
 * Link to [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md) in this [format](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/template.markdown):
 
