@@ -19,7 +19,7 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 * Reflect on organizational processes that would be useful for you in this career
 
 ### Directions: 
-For the activities listed below, **please create a gist on GitHub to capture your reflections for each of these 3 parts.** 
+For the activities listed below, **please create a gist on GitHub to capture your reflections for each of these 3 parts. When you're finished, email your gist to Allison at [allison@turing.io](mail:to)** 
 
 1. Read through this post from Red Pill Programming to get a sense of the different mindsets you'll want to consider in your new career: [The Software Engineer Framework: 8 Ways to Become a Better Software Engineer](http://redpillprogramming.com/software-engineer-framework/). 
 
