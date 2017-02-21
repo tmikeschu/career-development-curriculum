@@ -6,4 +6,4 @@
 * Link to Turing Alumni Profile:
 * Job search action plan for M4:
 * Link to Trello board:
-* Reflection of how to be successful in interviews: 
+* Reflection of how to be successful in interviews: [Gist](https://gist.github.com/wlffann/a6613a624d0862472dd17c02a4582999)
