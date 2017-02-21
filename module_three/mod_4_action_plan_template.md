@@ -16,7 +16,7 @@ In this section, break down your longterm goal into smaller goals that you want 
 #### Cold Outreach/Network:
 *Who will you reach out to? Have you considered talking with alumni about their own networking practices when they started their job search?
 
-#### Personal Branding (This section is optional):
+#### Personal Branding *(A personal branding section is optional)*:
 *How might personal branding pieces help you towards your goal?*
 
 ### Timeline:
