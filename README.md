@@ -13,7 +13,7 @@ Module One:
 
 Module Two:
 
-* Cold Outreach II
+* Cold Outreach I
 * Feedback II
 * Project Management/Collaborating
 * StrengthsFinder: Teamwork
