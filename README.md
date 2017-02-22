@@ -32,5 +32,5 @@ Module Four:
 * Cold Outreach II (also focused on capitalizing on your network)
 * Interview Prep II (practice)
 * Negotiations
-* Job Search Strategies II/StrengthsFinder: Envisioning the future (working on the Plan)
+* Job Search Strategies II/StrengthsFinder: Envisioning the future (working on revised version of the Plan)
 * Optional workshops
