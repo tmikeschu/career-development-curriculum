@@ -22,7 +22,7 @@ Module Two:
 Module Three:
 
 * Flower Exercise
-* Resume/Portfolio - incorporate StrengthsFinder here?
+* Resume/Portfolio - incorporate StrengthsFinder here
 * Finding Opportunities
 * Interview Prep I
 * Job Search Strategies I
