@@ -36,7 +36,7 @@ Module Three:
 
 * Flower Exercise **(May)**
 * Gear Up 1: Citizenship (March)
-* Resume/Portfolio - incorporate StrengthsFinder here around professional storytelling **(Focus on resume will start in May; SF will apply in June)**
+* Resume/Portfolio - incorporate StrengthsFinder here around professional storytelling/intro to ReadMes **(Focus on resume will start in May; SF will apply in June)**
 * Finding Opportunities (March)
 * Gear Up 2: Parable of the Polygon/Automation (March)
 * Interview Prep I (March)
