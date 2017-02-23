@@ -23,7 +23,9 @@ For the activities listed below, **please create a gist on GitHub to capture you
 
 1. One tool we'll be using for your professional development at Turing is the [StrengthsFinder assessment] -- link to research -- Unlike other assessments, one of the hallmarks of StrengthsFinder is that it focuses solely on what you're already doing well in order to understand how to capitalize on those strengths. You'll take this assessment in the first week of Module One, but ....
 
-   * Approximate reading time: ____ minutes
+   * Approximate reading time: 
+       * How to Hire Like Google & Facebook: 5 minutes
+       * Four Essentials of Strengths-Based Leadership: 6 minutes
    * After reading, answer the following questions in a reflection (4-6 sentences):
       * What do you feel are your top strengths? How do you know? 
 
