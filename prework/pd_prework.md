@@ -26,8 +26,12 @@ For the activities listed below, **please create a gist on GitHub to capture you
    * Approximate reading time: 
        * How to Hire Like Google & Facebook: 5 minutes
        * Four Essentials of Strengths-Based Leadership: 6 minutes
+       * 
    * After reading, answer the following questions in a reflection (4-6 sentences):
+      * 
       * What do you feel are your top strengths? How do you know? 
+      
+Additional Optional Reading: [Strengths-Based Development in Practice](
 
 1. Read through this post from Red Pill Programming to get a sense of the different mindsets you'll want to consider in your new career: [The Software Engineer Framework: 8 Ways to Become a Better Software Engineer](http://redpillprogramming.com/software-engineer-framework/). 
 
