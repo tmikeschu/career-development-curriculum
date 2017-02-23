@@ -21,12 +21,18 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 ### Directions: 
 For the activities listed below, **please create a gist on GitHub to capture your reflections for each of these 3 parts. When you're finished, email your gist to Allison at [allison@turing.io](mailto:allison@turing.io)** 
 
+1. One tool we'll be using for your professional development at Turing is the [StrengthsFinder assessment] -- link to research -- Unlike other assessments, one of the hallmarks of StrengthsFinder is that it focuses solely on what you're already doing well in order to understand how to capitalize on those strengths. You'll take this assessment in the first week of Module One, but ....
+
+   * Approximate reading time: ____ minutes
+   * After reading, answer the following questions in a reflection (4-6 sentences):
+      * What do you feel are your top strengths? How do you know? 
+
 1. Read through this post from Red Pill Programming to get a sense of the different mindsets you'll want to consider in your new career: [The Software Engineer Framework: 8 Ways to Become a Better Software Engineer](http://redpillprogramming.com/software-engineer-framework/). 
 
    * Approximate reading time: 15 minutes 
    * After reading, please write a reflection (4-6 sentences) on your takeaways from the post.
    
-2. Mentioned in the first reading, the idea of a strong checklist is the focus in the second reading. Read through and/or listen to this [interview](http://www.npr.org/templates/story/story.php?storyId=122226184) with Atul Gawande (author of the [Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)). It includes an excerpt from his book, which is optional reading. 
+2. Organization is paramount to success both at Turing and in a career as a programmer, and there are many ways to stay organized. In this activity, you'll explore one such system, which is the system of utilizing a strong checklist. Read through and/or listen to this [interview](http://www.npr.org/templates/story/story.php?storyId=122226184) with Atul Gawande (author of the [Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)). It includes an excerpt from his book, which is optional reading. 
    
    * Approximate reading time (including the excerpt from the book, which is optional): 22 minutes
    * After reading, consider the idea of checklists. Write a reflection (4-6 sentences) on the benefits of a checklist and how an organizational system such as a checklist might help you first as a student and later as a full-time developer. 
