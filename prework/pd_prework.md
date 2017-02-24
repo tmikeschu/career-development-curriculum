@@ -26,24 +26,24 @@ For the activities listed below, **please create a gist on GitHub to capture you
    * Approximate reading time: 
        * How to Hire Like Google & Facebook: 5 minutes
        * Four Essentials of Strengths-Based Leadership: 6 minutes
-       * Myth #1 Article
-   * After reading, answer the following questions in a reflection (4-6 sentences):
+       * Myth #1 Article : 6 minutes
+   * After reading the three articles, answer the following questions in a reflection (4-6 sentences):
       * 
       * What do you feel are your top strengths? How do you know? 
       
-Additional Optional Reading: [Strengths-Based Development in Practice](
+  Additional Optional Readings on StrengthsFinder: 
 
-1. Read through this post from Red Pill Programming to get a sense of the different mindsets you'll want to consider in your new career: [The Software Engineer Framework: 8 Ways to Become a Better Software Engineer](http://redpillprogramming.com/software-engineer-framework/). 
-
-   * Approximate reading time: 15 minutes 
-   * After reading, please write a reflection (4-6 sentences) on your takeaways from the post.
+  * [Strengths-Based Development in Practice](
+  * Myth #2
+  * Myth #3
+  * Myth #4
    
-2. Organization is paramount to success both at Turing and in a career as a programmer, and there are many ways to stay organized. In this activity, you'll explore one such system, which is the system of utilizing a strong checklist. Read through and/or listen to this [interview](http://www.npr.org/templates/story/story.php?storyId=122226184) with Atul Gawande (author of the [Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)). It includes an excerpt from his book, which is optional reading. 
+2. Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
+   
+   * Approximate reading time: 20 minutes
+   * Pick out 3 behaviors that resonate with you in the list and describe why they resonate with you in a reflection (4-6 sentences). 
+
+3. Organization is paramount to success both at Turing and in a career as a programmer. There are many ways to stay organized, but in this activity, you'll explore one system in particular -- utilizing a strong checklist. Read through and/or listen to this [interview](http://www.npr.org/templates/story/story.php?storyId=122226184) with Atul Gawande (author of the [Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000)). It includes an excerpt from his book, which is optional reading. 
    
    * Approximate reading time (including the excerpt from the book, which is optional): 22 minutes
    * After reading, consider the idea of checklists. Write a reflection (4-6 sentences) on the benefits of a checklist and how an organizational system such as a checklist might help you first as a student and later as a full-time developer. 
-
-3. Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
-   
-   * Approximate reading time: 20 minutes
-   * Pick out 3 behaviors that resonate with you in the list and describe why they resonate with you in a reflection (4-6 sentences).
