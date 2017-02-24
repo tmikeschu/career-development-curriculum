@@ -21,7 +21,7 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 ### Directions: 
 For the activities listed below, **please create a gist on GitHub to capture your reflections for each of these 3 parts. When you're finished, email your gist to Allison at [allison@turing.io](mailto:allison@turing.io)** 
 
-1. One tool we'll be using for your professional development at Turing is the [StrengthsFinder assessment](). Unlike other assessments, one of the hallmarks of StrengthsFinder is that it focuses solely on what you're already doing well in order to understand how to capitalize on those strengths. 
+1. One tool we'll be using for your professional development at Turing is the [StrengthsFinder assessment](https://github.com/turingschool/career-development-curriculum/blob/master/files/CSFTechnicalReport031005.pdf). Unlike other assessments, one of the hallmarks of StrengthsFinder is that it focuses solely on what you're already doing well in order to understand how to capitalize on those strengths. 
 
 Here is an excerpt from the above linked article about the purpose of StrengthsFinder:
 
