@@ -26,7 +26,7 @@ For the activities listed below, **please create a gist on GitHub to capture you
    * Approximate reading time: 
        * How to Hire Like Google & Facebook: 5 minutes
        * Four Essentials of Strengths-Based Leadership: 6 minutes
-       * 
+       * Myth #1 Article
    * After reading, answer the following questions in a reflection (4-6 sentences):
       * 
       * What do you feel are your top strengths? How do you know? 
