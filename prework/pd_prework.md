@@ -17,6 +17,8 @@ Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-
 * Understand the non-coding aspects that go into being a successful programmer
 * Reflect on your current mindsets and build an understanding of new or differing mindsets 
 * Reflect on organizational processes that would be useful for you in this career
+* Understand a strengths-based approach to development
+* Begin analyzing how your strengths apply to your development at Turing
 
 ### Directions: 
 For the activities listed below, **please create a gist on GitHub to capture your reflections for each of these 3 parts. When you're finished, email your gist to Allison at [allison@turing.io](mailto:allison@turing.io)** 
