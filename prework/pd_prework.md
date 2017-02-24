@@ -52,7 +52,7 @@ You'll take this assessment in the first week of Module One, but this first acti
   Additional Optional Readings on StrengthsFinder: 
 
   * [Strengths-Based Development in Practice](
-  * Myth #2
+  * [Debunking Strengths Myth #2: Why taking a strengths-based approach isn’t as easy as it seems]
   * Myth #3
   * Myth #4
    
