@@ -42,7 +42,7 @@ You'll take this assessment in the first week of Module One, but this first acti
    * Approximate reading time: 
        * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): 5 minutes
        * Four Essentials of Strengths-Based Leadership: 6 minutes
-       * [Debunking Strengths Myth #1: Adopting a strengths-based approach doesn’t mean you can ignore your weaknesses]: 6 minutes
+       * [Debunking Strengths Myth #1: Adopting a strengths-based approach doesn’t mean you can ignore your weaknesses](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_1_20071013.pdf): 6 minutes
    * After reading the three articles, answer the following questions in a reflection (4-6 sentences):
       * What is your impression of strengths-based development? What questions do you have about this?
       * 
