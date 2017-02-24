@@ -3,6 +3,8 @@
 Summary of how this fits into overall narrative here
 
 ### Objectives
+* Understand why cold outreach effective for establishing professional relationships
+* Implement strategies to contact 
 
 ### Deliverable
 You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines]9https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
@@ -32,4 +34,6 @@ Differentiation:
 
 ### Closing & Next Steps
 Reminder of how this fits into overall narrative of PD and next steps -- you'll be expected to complete your deliverable, and you're also expected to start building a network from contacts available at Turing. 
+
+One of your deliverables in Module 4 is to write cold outreach emails to contacts from companies you're interested in working for. 
 
