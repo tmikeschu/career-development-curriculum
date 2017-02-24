@@ -13,3 +13,5 @@
   *  "He and I have coffee scheduled on 02/14 to discuss advice he has for a new developer."
 
   *  "She and I paired over ScreenHero for an hour on drills. We've scheduled another pairing for 02/26 to prep for my final assessment."
+
+* How do you feel like this relationship will benefit you in your longterm professional development? 
