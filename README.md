@@ -45,7 +45,7 @@ Module Three:
  
 Module Four:
 
-* Cold Outreach II (also focused on capitalizing on your network) (March)
+* Cold Outreach II (also focused on capitalizing on your network) **(Quick follow-up in March; full session in May)**
 * Gear Up 1: Case Study planning I (March)
 * Interview Prep II (practice) (March)
 * Gear Up 2: Case Study planning II (March)
