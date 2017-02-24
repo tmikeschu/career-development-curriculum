@@ -41,7 +41,7 @@ You'll take this assessment in the first week of Module One, but this first acti
 
    * Approximate reading time: 
        * [How to Hire Like Google & Facebook](https://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#64c08fc513bf): 5 minutes
-       * Four Essentials of Strengths-Based Leadership: 6 minutes
+       * [Four Essentials of Strengths-Based Leadership](http://www.forbes.com/sites/ekaterinawalter/2013/08/27/four-essentials-of-strength-based-leadership/#76b62a91fa21): 6 minutes
        * [Debunking Strengths Myth #1: Adopting a strengths-based approach doesn’t mean you can ignore your weaknesses](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_1_20071013.pdf): 6 minutes
    * After reading the three articles, answer the following questions in a reflection (4-6 sentences):
       * What is your impression of strengths-based development? What questions do you have about this?
@@ -54,7 +54,7 @@ You'll take this assessment in the first week of Module One, but this first acti
   * [Strengths-Based Development in Practice](https://github.com/turingschool/career-development-curriculum/blob/master/files/Strengths-Based_Development_in_Practice.pdf)
   * [Debunking Strengths Myth #2: Why taking a strengths-based approach isn’t as easy as it seems]
   * [Debunking Strengths Myth #3: When it comes to first impressions about employees’ talents, you should trust -- but verify -- them](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_3_20080410.pdf)
-  * [Debunking Strengths Myth #4: Understanding the real connection between talent and motivation](
+  * [Debunking Strengths Myth #4: Understanding the real connection between talent and motivation](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_4_20080911.pdf)
    
 2. Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
    
