@@ -2,7 +2,7 @@
 
 ## Mod 3 Deliverables:
 
-* Link to completed [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf):
+* Link to completed [Flower Exercise](https://github.com/Sh1pley/Turing-Deliverables/blob/master/Desktop/Parachute-Flower-Exercise.pdf): Click ME!
 * Link to Turing Alumni Profile:
 * Job search action plan for M4:
 * Link to Trello board:
