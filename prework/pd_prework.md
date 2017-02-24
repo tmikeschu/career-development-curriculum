@@ -51,7 +51,7 @@ You'll take this assessment in the first week of Module One, but this first acti
       
   Additional Optional Readings on StrengthsFinder: 
 
-  * [Strengths-Based Development in Practice](
+  * [Strengths-Based Development in Practice](https://github.com/turingschool/career-development-curriculum/blob/master/files/Strengths-Based_Development_in_Practice.pdf)
   * [Debunking Strengths Myth #2: Why taking a strengths-based approach isn’t as easy as it seems]
   * Myth #3
   * Myth #4
