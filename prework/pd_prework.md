@@ -53,7 +53,7 @@ You'll take this assessment in the first week of Module One, but this first acti
 
   * [Strengths-Based Development in Practice](https://github.com/turingschool/career-development-curriculum/blob/master/files/Strengths-Based_Development_in_Practice.pdf)
   * [Debunking Strengths Myth #2: Why taking a strengths-based approach isn’t as easy as it seems]
-  * [Debunking Strengths Myth #3: When it comes to first impressions about employees’ talents, you should trust -- but verify -- them](
+  * [Debunking Strengths Myth #3: When it comes to first impressions about employees’ talents, you should trust -- but verify -- them](https://github.com/turingschool/career-development-curriculum/blob/master/files/Debunking_Strengths_Myth_3_20080410.pdf)
   * [Debunking Strengths Myth #4: Understanding the real connection between talent and motivation](
    
 2. Read through [29 Behaviors That Will Make You an Unstoppable Programmer](http://blog.thefirehoseproject.com/posts/29-behaviors-will-make-unstoppable-programmer/)
