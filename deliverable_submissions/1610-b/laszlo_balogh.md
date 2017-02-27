@@ -2,9 +2,9 @@
 
 ## Mod 3 Deliverables:
 
-* Link to completed [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf):
+* Link to completed [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf): https://docs.google.com/document/d/1kQc-aLX3JbpA_B6EyyAyrJolQMYO84v-DLFSbytzmFM/edit?usp=sharing
 * Link to Turing Alumni Profile: https://www.turing.io/alumni/laszlo-balogh
-* Job search action plan for M4:
+* Job search action plan for M4: https://gist.github.com/Laszlo-JFLMTCO/cc56a6f322ac4410ee177e1e369e4833
 * Link to Trello board: https://trello.com/b/fE4bUlIh/laszlo-balogh-job-tracker
 * Reflection of how to be successful in interviews:  
   * Be there on time: not too early and definitely not late!!!  
