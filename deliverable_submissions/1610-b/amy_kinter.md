@@ -2,7 +2,7 @@
 
 ## Mod 3 Deliverables:
 
-* Link to completed [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf): I have to attach a PDF of this, as I filled it out by hand. 
+* Link to completed [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/files/Career%20Unit%20-%20The%20Flower%20Diagram.pdf): I have to attach a PDF of this, as I filled it out by hand. Here is the PDF of my flower exercise: https://turingschool.slack.com/messages/@megstew/
 * Link to Turing Alumni Profile: https://www.turing.io/alumni/amy-kintner
 * Job search action plan for M4: I have already applied to a variety of companies and had some degree of success (one technical interview, two chats with hiring managers). I am trying to do three applications a week at this point and will continue with this. I am also working to reach out more to people I've met at job fairs or meet-ups and network with them, though I admit I didn't get much of this done in Mod 3. Moving forward, I will do two cold outreach emails per week and keep up the applications at the pace I'm going now. 
 * Link to Trello board: https://trello.com/b/6RPBJrUa/amy-kintner-job-tracker-wishlist
