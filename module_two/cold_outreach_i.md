@@ -7,7 +7,7 @@ Summary of how this fits into overall narrative here
 * Implement strategies to contact 
 
 ### Deliverable
-You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines]9https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 
 ### Opening
 In the technology industry, looking for jobs   Your first objective here is to make connections with others in the Turing community...
