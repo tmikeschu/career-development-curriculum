@@ -11,7 +11,7 @@ Create a job search action plan to share with Meg for how you will approach the 
 ### Opening
 Job searching takes work. In fact, it may as well be a full-time job in itself. In this session, we'll discuss how you can create the structure needed to keep up with your job search in an effective way. 
 
-### Post-Graduation Scheduling
+### Post-Graduation Planning
 Treat your schedule as though it is a 40-hour work week and divide your time between:
 
 * Code
