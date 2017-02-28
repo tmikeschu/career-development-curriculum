@@ -7,6 +7,8 @@
 * Link to [The Plan](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/index.md) in this [format](https://github.com/turingschool/backend-curriculum-site/blob/gh-pages/module4/projects/the-plan/template.markdown):
 * Summary of participation in a actual interview or practice interview that includes details of the company, interviewer’s name, and their title:
 
+Had Google Hangout with Ian Douglas. Did ruby challenges and covered http request/response cycle.
+
 ### 6 Emails
 1. Krista Morgan - P2Binvestor
   * Emailed + had coffee at her office. She is going to pass my resume to her CTO
