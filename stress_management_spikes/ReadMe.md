@@ -6,7 +6,7 @@ These sessions are designed to give students strategies for managing stress in a
 * Apply stress management strategies to any situation
 
 ## Individual Use Strategies
-* [Shifting Emotions from Negative to Positive]()
+* [Shifting Emotions from Negative to Positive](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/shifting_negative_emotions.md)
 
 ## Group Use Strategies
 * 
