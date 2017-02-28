@@ -16,7 +16,7 @@ To insert an anchor point of that name use HTML:
 
 ## Group Use Strategies
 
-### <a name="Shifting Emotions from Negative to Positive"></a>
+<a name="Shifting Emotions from Negative to Positive"></a> ### Shifting Emotions from Negative  to Positive
 Use: Individual
 
 When you feel overwhelmed or stuck with negative emotions, you can utilize this process, which is intended to help you shift your focus from negative emotions to postive ones. Using ideas from [Stress Inoculation Training](http://www.makingthemodernworld.org.uk/learning_modules/psychology/07.TU.09/?section=6) and Barbara Frederickson's research on positive emotions, Sandra L. Foster (PhD, executive coach, and peak performance psychology expert) developed this coaching technique:
