@@ -3,7 +3,7 @@
 ### Objectives
 * Understand why cold outreach is effective for establishing professional relationships
 * Implement strategies to contact mentors, alumni, and/or professional contacts who you'd like to meet
-* 
+* Build a sustainable and meaningful relationship with a mentor
 
 ### Deliverable
 You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
@@ -45,12 +45,11 @@ Other things to keep in mind:
 Have an idea of how you would set up a meeting with a mentor before you contact them. 
 
 ### Actual Email Formatting
-When you're ready to write your email, here are some things to keep in mind:
+When you're ready to write your email (or Slack message), here are some things to keep in mind:
 
 **Less is More:**
 
-* Keep it short
-* 3-5 sentences is best practice
+* Keep it short (5-7 sentences)
 * Be direct and make it easy for them -- can they respond to you in one sentence?
 
 **Email Format:**
@@ -103,13 +102,14 @@ When you're ready to apply this to industry contacts, you may also consider:
     727-333-9877 
 
 ### What Not to Do
-It's definitely exciting (or excruciating, depending on your initial viewpoint) to reach out to someone new from the industry. But make sure you don't let your nerves get the best of you. 
+It's definitely exciting (or excruciating, depending on your initial viewpoint) to reach out to someone new from the industry. But make sure you don't let your nerves get the best of you. More than anything, do your research.
 
-### Reminders
-* The mentors **want** to hear from you!
-* You can create more than one mentor relationship
-* 
+**Don't:**
 
+* Pick the first name on the list. Again, do your research
+* Spell the mentor's name wrong
+* Bull shit. Contacts can tell when you haven't done enough research about what it is you want to connect about
+* Pretend you're an expert when you're not. They're called "mentors" for a reason -- ask questions!
 
 ### Research & Execution Time
 
@@ -118,7 +118,10 @@ It's definitely exciting (or excruciating, depending on your initial viewpoint) 
 * If you have already been meeting with a mentor regularly, find someone else from the sheet to reach out to based on your professional interests. Draft your email following the strategies above.
 
 ### Closing & Next Steps
-Reminder of how this fits into overall narrative of PD and next steps -- you'll be expected to complete your deliverable, and you're also expected to start building a network from contacts available at Turing. 
+
+Remember that the mentors **want** to hear from you, and you can create more than one mentor relationship
+
+With these tools, you're expected to create a mentor relationship, and you're also expected to start building a network from contacts available at Turing. 
 
 One of your deliverables in Module 4 is to write cold outreach emails to contacts from companies you're interested in. Use these strategies to build your comfort in cold outreach so that you'll be prepared to take the next step of applying them to your job search. 
 
