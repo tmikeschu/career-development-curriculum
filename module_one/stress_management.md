@@ -2,7 +2,7 @@
 This session is designed to give students strategies for managing stress in an effective way. The techniques listed here offer coaching for both individuals and groups in order to:
 
 * Identify sources of stress
-* Build an understanding of multiple strategies to manage stress
+* Build an understanding of multiple strategies available to manage stress
 * Apply stress management strategies to any situation
 
 ## Individual Use Strategies
