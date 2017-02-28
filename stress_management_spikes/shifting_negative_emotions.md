@@ -13,6 +13,7 @@ Try to imagine this negative state that you're in becoming more positive -- not 
 
 ### Brainstorm
 Ask yourself -- how might this negative state be changed so that it will be more positive:
+
     * 3 months from now? 
     * One month from now? 
     * Two weeks from now? 
@@ -22,6 +23,7 @@ Do your feelings about the negative situation feel more positive?
 
 ### Write
 Brainstorm and write down some positive words or statements strengthen your new positive state. Here are some examples:
+
     * Breathe
     * Focus
     * I'm OK
