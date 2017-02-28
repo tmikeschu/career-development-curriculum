@@ -7,12 +7,6 @@ This session is designed to give students strategies for managing stress in an e
 
 ## Individual Use Strategies
 * [Shifting Emotions from Negative to Positive](#Shifting Emotions from Negative to Positive)
-Take me to [pookie](#pookie)
-should be the correct markdown syntax to jump to the anchor point named pookie.
-
-To insert an anchor point of that name use HTML:
-
-<a name="pookie"></a>
 
 ## Group Use Strategies
 
@@ -45,8 +39,16 @@ When you feel overwhelmed or stuck with negative emotions, you can utilize this 
     * What's my task? I can do what I can see/define/clarify
     * We can do it together if we support each other and work together
 5. Do your chosen words generate positive feelings for you? If not, find other positive words. The intention is for your positive words to serve a mantra so that they manifest themselves in your body
-6. Now, develop a "broaden and build" action plan to accompany your positive words:
+6. Now, develop a "broaden and build" action plan to accompany your positive words, meaning to broaden your personal thought-action repertoires and build your personal resources:
 
-    * Make a list to answer the question "What do I need to do?" or "What else might help in this situation?"
+    * **Make a list** to answer the questions "What do I need to do?" or "What else might help in this situation?"
+    * **Generate different ways to solve the problem,** such as new resources or input from different people. Consider questions like:
+        * "If I collaborated with ____, what positive outcomes might occur?"
+        * "What different team interaction might help us better solve this problem?"
+    * **Get perspective.** Step back and consider how this situation might look six months, one year, or even five years from now. What's the picture? Is your perspective too narrow?
+7. Using your positive words and one of the broadening strategies listed above, imagine again the positive state you considered in step 2 keeping these actions in mind. 
+    Do you feel more confident than the first time you imagined it? 
+    Is there anything holding you back from seeing this as a positive state?
+8. Now that you've started to build an action plan, share it with someone you're close with to create a system of accountability and gain any necessary feedback to continue to refine your action plan. 
 
 **Note:** This process is meant to be used for temporary relief from stress but does not encompass an in-depth reflection. One of the benefits of this technique is that after completing it, your mind should be more clear and open to other stress management tools. 
