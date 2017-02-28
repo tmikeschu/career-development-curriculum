@@ -77,10 +77,10 @@ When you're ready to apply this to industry contacts, you may also consider:
     My name is ____, and I'm a module two student in the _____ program at Turing. I'm originally from Chicago 
     and would love to move back there after I graduate. I'd really like to connect with you to discuss your 
     work and the tech scene in Chicago. I'm particularly interested in any advice you have for me during the 
-    rest of the program at Turing for how I can prepare for my job search and how I could get started in Chicago. 
-    I noticed on your schedule that you are available Wednesdays at 5pm -- are you free next Tuesday the 28th? 
-    Here's the Google Hangout link we can use. If that date/time doesn't work for you, let me know a time that's
-    better for you. 
+    rest of the program at Turing for how I can prepare for my job search and how I could get started in 
+    Chicago. I noticed on your schedule that you are available Wednesdays at 5pm -- are you free next Tuesday 
+    the 28th? Here's the Google Hangout link we can use. If that date/time doesn't work for you, let me know 
+    a time that's better for you. 
 
     Thanks,
     Gaby Martinez
@@ -89,11 +89,12 @@ When you're ready to apply this to industry contacts, you may also consider:
     555-555-1234
 
     Hi Jenna,
-    I'm reaching out because I'm currently in Mod Two of the _____ program at Turing, and I saw that you work 
+    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing, and I saw that you work 
     in React. I'm about to dive into React more in my projects and would really appreciate any guidance you 
     might be able to give me. And since you've been through the program too, I'd like to hear about your 
-    experience at Turing and any advice you might have   on how to be successful. Are you be available to meet
-    for coffee this Thursday (6/2) at 4pm at Dazbog off of Curtis and 18th?
+    experience at Turing and any advice you might have on how to be successful. Are you be available to meet
+    for coffee this Thursday (6/2) at 4pm at Dazbog off of Curtis and 18th? If not, please let me know a better 
+    date/time we could meet!
 
     Thanks,
     Stefan Morris
