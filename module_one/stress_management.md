@@ -20,19 +20,19 @@ When you feel overwhelmed or stuck with negative emotions, you can utilize this 
     One day from now?
    Do your feelings about the negative situation feel more positive?
 4. Brainstorm and write down some positive words or statements strengthen your new positive state. Here are some examples:
-    Breathe
-    Focus
-    I'm OK
-    What is it I am supposed to be doing right now?
-    I can get a grip on my thoughts
-    I've got this
-    Just settle down
-    Smile - it helps
-    I can get on track
-    I can manage this
-    I can break this enormous task down into pieces and tackle each one, step by step
-    What's my task? I can do what I can see/define/clarify
-    We can do it together if we support each other and work together
+    * Breathe
+    * Focus
+    * I'm OK
+    * What is it I am supposed to be doing right now?
+    * I can get a grip on my thoughts
+    * I've got this
+    * Just settle down
+    * Smile - it helps
+    * I can get on track
+    * I can manage this
+    * I can break this enormous task down into pieces and tackle each one, step by step
+    * What's my task? I can do what I can see/define/clarify
+    * We can do it together if we support each other and work together
 5. Do your chosen words generate positive feelings for you? If not, find other positive words. The intention is for your positive words to serve a mantra so that they manifest themselves in your body
 6. Now, develop a "broaden and build" action plan to accompany your positive words:
 
