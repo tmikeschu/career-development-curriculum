@@ -1,5 +1,4 @@
 # Cold Outreach I
-This session plays a part in your professional development at Turing by providing you with 
 
 ### Objectives
 * Understand why cold outreach is effective for establishing professional relationships
@@ -7,7 +6,7 @@ This session plays a part in your professional development at Turing by providin
 * 
 
 ### Deliverable
-You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
+You'll be expected to give a synopsis of your cold outreach interactions following these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md) via the [PD submissions repo](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
 In the technology industry, moreso than in other industries, getting ahead in your career comes down to who you know. Establishing strong connections with those in the technology community starts while you're at Turing.
@@ -15,9 +14,11 @@ In the technology industry, moreso than in other industries, getting ahead in yo
 This is the first of two sessions about outreach. While this session is called Cold Outreach, we'll be looking at contacts within the Turing community, so this is more of "warm outreach," and it will give you experience and confidence to be able to build on your network and intiate true cold outreach during Module 4. Thus, your first objective as part of your networking practice is to make connections with others in the Turing community by utilizing our extensive mentorship community. 
 
 ### The Why
-Why should you reach out to mentors or alumni? For one, they are already a part of your community here. 
+**Why should I reach out to mentors?** 
+For one, they are already a part of your community here and can provide a wealth of knowledge to you not only on how to be successful at Turing but important information on entering the software industry. They also **want** you to reach out to them -- they've volunteered to be a part of the mentorship program. 
 
-Why cold outreach? Why can't mentors just be assigned to students? Because you'll need to reach out to people
+**Why cold outreach? Why can't mentors just be assigned to students?** 
+First, we don't have the bandwidth to assign mentors. And even if we did, who's to say we'd make a great match? Learning how to reach out to others and create a network is an important skill for you to be successful in this industry, and it is also how you'll create the most meaningful relationships possible. 
 
 ### Finding the Right People
 The strategies discussed here can be applied to reaching out to anyone, but again, we'll focus on mentors in this particular session. Before you start reaching out to just anyone, ask yourself "what would I like to get out of a mentor relationship?"
