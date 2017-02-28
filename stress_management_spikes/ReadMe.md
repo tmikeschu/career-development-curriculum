@@ -10,3 +10,6 @@ These sessions are designed to give students strategies for managing stress in a
 
 ## Group Use Strategies
 * 
+
+## Facilitator's Guide 
+For anyone facilitating a Stress Management Spike, check out these guidelines...
