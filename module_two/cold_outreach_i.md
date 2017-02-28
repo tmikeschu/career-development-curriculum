@@ -20,6 +20,12 @@ For one, they are already a part of your community here and can provide a wealth
 **Why cold outreach? Why can't mentors just be assigned to students?** 
 First, we don't have the bandwidth to assign mentors. And even if we did, who's to say we'd create the best match for you? Learning how to reach out to others and create a network is an important skill for you to be successful in this industry, and it is also how you'll create the most meaningful relationships possible. 
 
+**Discussion:**
+Show of hands of who in the class has reached out to mentors and who hasn't.
+
+* For those who haven't reached out, what has held you back from reaching out to mentors in the past?
+* For those who have reached out to mentors, what are your takeaways from the experience so far?
+
 ### Finding the Right People
 The strategies discussed here can be applied to reaching out to anyone, but again, we'll focus on mentors in this particular session. Before you start reaching out to just anyone, ask yourself "what would I like to get out of a mentor relationship?"
 
@@ -109,6 +115,7 @@ It's definitely exciting (or excruciating, depending on your initial viewpoint) 
 * Pick the first name on the list. Again, do your research
 * Spell the mentor's name wrong
 * Bull shit. Contacts can tell when you haven't done enough research about what it is you want to connect about
+* Give up if you don't get an immediate response. Mentors are busy. If you reached out using Slack, try their email next
 * Pretend you're an expert when you're not. They're called "mentors" for a reason -- ask questions!
 
 ### Research & Execution Time
