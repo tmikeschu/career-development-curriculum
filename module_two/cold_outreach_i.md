@@ -73,7 +73,7 @@ When you're ready to apply this to industry contacts, you may also consider:
 
     Hi Jose,
 
-    My name is ____, and I'm a module two student in the _____ program at Turing. I'm originally from Chicago 
+    My name is Gaby, and I'm a module two student in the Back End program at Turing. I'm originally from Chicago 
     and would love to move back there after I graduate. I'd really like to connect with you to discuss your 
     work and the tech scene in Chicago. I'm particularly interested in any advice you have for me during the 
     rest of the program at Turing for how I can prepare for my job search and how I could get started in 
