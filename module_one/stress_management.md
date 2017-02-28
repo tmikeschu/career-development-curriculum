@@ -5,8 +5,19 @@ This session is designed to give students strategies for managing stress in an e
 * Build an understanding of multiple strategies to manage stress
 * Apply stress management strategies to any situation
 
-### Strategy 1: Shifting from a Negative State to a Positive One
-Participation: Individual
+## Individual Use Strategies
+* [Shifting Emotions from Negative to Positive](#Shifting Emotions from Negative to Positive)
+Take me to [pookie](#pookie)
+should be the correct markdown syntax to jump to the anchor point named pookie.
+
+To insert an anchor point of that name use HTML:
+
+<a name="pookie"></a>
+
+## Group Use Strategies
+
+### <a name="Shifting Emotions from Negative to Positive"></a>
+Use: Individual
 
 When you feel overwhelmed or stuck with negative emotions, you can utilize this process, which is intended to help you shift your focus from negative emotions to postive ones. Using ideas from [Stress Inoculation Training](http://www.makingthemodernworld.org.uk/learning_modules/psychology/07.TU.09/?section=6) and Barbara Frederickson's research on positive emotions, Sandra L. Foster (PhD, executive coach, and peak performance psychology expert) developed this coaching technique:
 
