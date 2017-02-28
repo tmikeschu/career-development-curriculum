@@ -1,5 +1,7 @@
 # Cold Outreach I
 
+[Slides for this session](
+
 ### Objectives
 * Understand why cold outreach is effective for establishing professional relationships
 * Implement strategies to contact mentors, alumni, and/or professional contacts who you'd like to meet
