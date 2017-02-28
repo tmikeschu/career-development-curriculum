@@ -27,5 +27,15 @@ When you feel overwhelmed or stuck with negative emotions, you can utilize this 
     I can get a grip on my thoughts
     I've got this
     Just settle down
+    Smile - it helps
+    I can get on track
+    I can manage this
+    I can break this enormous task down into pieces and tackle each one, step by step
+    What's my task? I can do what I can see/define/clarify
+    We can do it together if we support each other and work together
+5. Do your chosen words generate positive feelings for you? If not, find other positive words. The intention is for your positive words to serve a mantra so that they manifest themselves in your body
+6. Now, develop a "broaden and build" action plan to accompany your positive words:
+
+    * Make a list to answer the question "What do I need to do?" or "What else might help in this situation?"
 
 **Note:** This process is meant to be used for temporary relief from stress but does not encompass an in-depth reflection. One of the benefits of this technique is that after completing it, your mind should be more clear and open to other stress management tools. 
