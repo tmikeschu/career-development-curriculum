@@ -106,10 +106,11 @@ What do you notice about this email? What is working well? What would you do dif
 Example #2:
 
     Hi Jenna,
-    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. I'm diving 
-    into React more and figured it's about time I find a mentor. I saw that you work in React. I'm 
-    about to dive into React more in my projects and would really appreciate any guidance you might 
-    be able to give me. Are you available to meet at Turing this Thursday (6/2) at 4pm? If not, please 
+    
+    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. I'm starting
+    to learn React and figured it's about time I find a mentor. I saw that you work in React, and as I 
+    start to use it more in my projects, I would really appreciate any guidance you might be able to give 
+    me. Are you available to meet at Turing this Thursday (6/2) at 4pm? If not, please 
     let me know a better date/time we could meet!
 
     Thanks,
