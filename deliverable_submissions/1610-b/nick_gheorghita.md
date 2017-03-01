@@ -2,7 +2,7 @@
 
 ## Mod 3 Deliverables:
 
-* Link to completed [Flower Exercise](https://www.canva.com/design/DACOVEem24I/2jYnv2OT9fCIiT9E1ZzS2g/view?utm_content=DACOVEem24I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton):
+* Link to completed [Flower Exercise](https://docs.google.com/document/d/1IM9C0416-KuMgxLLmeUzeVNF5u6i8ZLs-krYPEDWPr4/edit?usp=sharing):
 * Link to Turing Alumni Profile: https://www.turing.io/alumni/nick-gheorghita
 * Job search action plan for M4: 
     Mid-Mod Week:
