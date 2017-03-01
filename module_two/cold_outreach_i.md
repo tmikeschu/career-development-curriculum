@@ -106,13 +106,11 @@ What do you notice about this email? What is working well? What would you do dif
 Example #2:
 
     Hi Jenna,
-    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. 
-    I'm diving into React more and figured it's about time I find a mentor. 
-    I saw that you work in React. I'm about to dive into React more 
-    in my projects and would really appreciate any guidance you might 
-    be able to give me. Are you available to meet at Turing this 
-    Thursday (6/2) at 4pm? If not, please let me know a better 
-    date/time we could meet!
+    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. I'm diving 
+    into React more and figured it's about time I find a mentor. I saw that you work in React. I'm 
+    about to dive into React more in my projects and would really appreciate any guidance you might 
+    be able to give me. Are you available to meet at Turing this Thursday (6/2) at 4pm? If not, please 
+    let me know a better date/time we could meet!
 
     Thanks,
     Stefan Morris
@@ -122,9 +120,22 @@ Example #2:
     
 What do you notice about this email? What is working well? What would you do differently?
 
-Example #3:
+Example #3: *This email is not to a mentor but rather leveraging a mentor relationship for a "colder" contact*
 
+    Hi Mark,
+    
+    My name is Katrina, and I'm a back end student at Turing. Our mutual connection Shauna Williams 
+    recommended I reach out to ask you about your work at Tech Choice. I'm very interested in pursuing 
+    work at a start-up like that and would really appreciate any advice you have for me as I start out as a junior dev. I       saw that you've posted in the Turing job hunt channel about senior positions opening up at Tech Choice. Any chance 
+    you'll be hiring junior devs soon? I'd love to talk with you about that too. What's your schedule like next week? I am 
+    free on Tuesday afternoon. We could meet at Dazbog off of Curtis and 18th. 
 
+    Thanks,
+    Katrina Johnson
+    @katrina
+    303-123-4567
+
+What do you notice about this email? What is working well? What would you do differently?
 
 ### What Not to Do
 It's definitely exciting (or excruciating, depending on your initial viewpoint) to reach out to someone new from the industry. But make sure you don't let your nerves get the best of you. More than anything, do your research.
