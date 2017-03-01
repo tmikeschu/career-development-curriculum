@@ -88,11 +88,12 @@ Example #1:
 
     Hi Jose,
 
-    My name is Gaby, and I'm a module two student in the Back End program at Turing. I'm originally from Chicago 
-    and would love to move back there after I graduate. I'd really like to connect with you to discuss your 
-    work and the tech scene there. I'm particularly interested in any advice you have for how I can prepare for my job           search in Chicago. I noticed on your schedule that you are available Wednesdays at 5pm -- are you free next Wednesday
-    the 28th? If so, I can set up Google Hangout. If that date/time doesn't work for you, please let me know 
-    a time that's better for you. 
+    My name is Gaby, and I'm a module two student in the Back End program at Turing. I'm originally 
+    from Chicago and would love to move back there after I graduate. I'd really like to connect 
+    with you to discuss your work and the tech scene there. I'm particularly interested in any advice 
+    you have for how I can prepare for my job search in Chicago. I noticed on your schedule that you are 
+    available Wednesdays at 5pm -- are you free next Wednesday the 28th? If so, I can set up Google 
+    Hangout. If that date/time doesn't work for you, please let me know a time that's better for you. 
 
     Thanks,
     Gaby Martinez
