@@ -62,14 +62,19 @@ When you're ready to write your email (or Slack message), here are some things t
 
 **Email Format:**
 
-* Keep it casual -- no "To Whom It May Concern" 
+* Keep it casual -- no "To Whom It May Concern"
+* ...But not *too* casual
 * Draw a connection between you and the person on the receiving end -- why did you pick that person to reach out to?
-* Don't tell your life stroy. That can come when you actually meet the person. Keep it short, sweet, and to the point
+* Don't tell your life story. That can come when you actually meet the person. Keep it short, sweet, and to the point
 * Utilize the subject line
 
 **Email Purpose:**
 
 What do you want to talk about? Go back to your highest priorities listed above.
+
+With mentors:
+
+* Set expectations for the initial meeting. Your relationship will grow from there
 
 When you're ready to apply this to industry contacts, you may also consider:
 
@@ -79,14 +84,14 @@ When you're ready to apply this to industry contacts, you may also consider:
 
 **Examples**:
 
+Example #1:
+
     Hi Jose,
 
     My name is Gaby, and I'm a module two student in the Back End program at Turing. I'm originally from Chicago 
     and would love to move back there after I graduate. I'd really like to connect with you to discuss your 
-    work and the tech scene in Chicago. I'm particularly interested in any advice you have for me during the 
-    rest of the program at Turing for how I can prepare for my job search and how I could get started in 
-    Chicago. I noticed on your schedule that you are available Wednesdays at 5pm -- are you free next Tuesday 
-    the 28th? Here's the Google Hangout link we can use. If that date/time doesn't work for you, let me know 
+    work and the tech scene there. I'm particularly interested in any advice you have for how I can prepare for my job           search in Chicago. I noticed on your schedule that you are available Wednesdays at 5pm -- are you free next Wednesday
+    the 28th? If so, I can set up Google Hangout. If that date/time doesn't work for you, please let me know 
     a time that's better for you. 
 
     Thanks,
@@ -94,20 +99,31 @@ When you're ready to apply this to industry contacts, you may also consider:
     @GabyMartinez
     gabymartinez.com
     555-555-1234
+    
+What do you notice about this email? What is working well? What would you do differently?
+
+Example #2:
 
     Hi Jenna,
-    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing, and I saw that you work 
-    in React. I'm about to dive into React more in my projects and would really appreciate any guidance you 
-    might be able to give me. And since you've been through the program too, I'd like to hear about your 
-    experience at Turing and any advice you might have on how to be successful. Are you be available to meet
-    for coffee this Thursday (6/2) at 4pm at Dazbog off of Curtis and 18th? If not, please let me know a better 
+    I'm reaching out because I'm currently in Mod Two of the Front End program at Turing. 
+    I'm diving into React more and figured it's about time I find a mentor. 
+    I saw that you work in React. I'm about to dive into React more 
+    in my projects and would really appreciate any guidance you might 
+    be able to give me. Are you available to meet at Turing this 
+    Thursday (6/2) at 4pm? If not, please let me know a better 
     date/time we could meet!
 
     Thanks,
     Stefan Morris
     smorris.me
     @smorris
-    727-333-9877 
+    727-333-9877
+    
+What do you notice about this email? What is working well? What would you do differently?
+
+Example #3:
+
+
 
 ### What Not to Do
 It's definitely exciting (or excruciating, depending on your initial viewpoint) to reach out to someone new from the industry. But make sure you don't let your nerves get the best of you. More than anything, do your research.
