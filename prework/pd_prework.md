@@ -9,7 +9,7 @@ The pre-work for professional development is focused on introducing you to a set
 * Agency - Defined as taking initiative and ownership over your learning and work
 * Empathy - Defined as understanding and sharing others' emotions in order to relate to them more
 * Engagement - Defined as active participation
-* Grit - Defined as a combination of perserverance and passion
+* Grit - Defined as a combination of perseverance and passion
 * Growth - Defined as a belief that your abilities can be developed through dedication and hard work. Resiliency is a key point for this mindset 
 
 Your Gear Up pre-work is focused on Empathy, so that is not a focus of this pre-work while the other four mindsets will be introduced to you here. Your objectives in this pre-work are to:
