@@ -2,27 +2,23 @@
 
 In Module Two, professional development builds on Turing success strategies introduced in Module One with opportunities to begin applying these skills to students' job search. The following are key components of this success:
 
-* Cultivate Empathy
-* Teamwork
-* Agile practices & project management skills
-* Building relationships both with cohortmates and mentors
-* 
+* Cultivate Empathy for working with others
+* Building teamwork competencies using agile practices
+* Applying personal strengths to a teamwork setting
+* Building professional relationships both with cohortmates and mentors
+* Conduct conversations around feedback
+* Use feedback from teammates to improve own practices
 
 #### Why These Objectives:
-Module Two requires students to work more closely in multi-person teams. Students will utilize their 
-
-Whether students are at Turing to pursue their first job or their twentieth, the career transition they experience at Turing requires them to reflect on their abilities, become comfortable with ambiguity, and embrace new challenges. Turing aims to provide tools and support to do this successfully and be set on the path for a more fulfilling career than what they left behind, and mastering these objectives will set the foundation for this success. 
+Module Two requires students to work more closely in multi-person teams, and as such, the professional development curriculum is focused on helping students build competencies around teamwork and cultivating professional relationships in the context of the software industry.
 
 #### Bringing It All Together:
-By mastering the objectives listed above, students will be able to put themselves in others' shoes and learn how to work with others successfully in the context of software. 
-
-
-direct their own learning by knowing when to struggle, when to ask for help, and how to do both effectively. Students will be able to articulate what they need from a working relationship and reflect on how they can improve. Students will be able to understand their own strengths and weaknesses and use setbacks as opportunities for growth. All in all, students will be aware of their abilities and have a framework for how to continue to grow and tackle learning challenges as they go to Module Two. 
+By mastering the objectives listed above, students will be able to put themselves in others' shoes and use that empathy to ...
 
 ### Sessions
 
 * BEE: Collaboration
-* Cold Outreach I 
+* [Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md) 
 * Gear Up 1: Empathy
 * Feedback II 
 * Crucial Conversations/Microaggressions Follow-Up 
