@@ -25,7 +25,7 @@ In this repo, you'll find all of the curriculum for
 ### Module Four
 
 ### Deliverables
-PD deliverables will be reviewed by either Allison, Meg, or both of us. 
+PD deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
 
 
