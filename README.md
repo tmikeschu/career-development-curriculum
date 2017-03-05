@@ -14,9 +14,19 @@ The touchstones of this curriculum include these mindsets:
 
 Through this development, upon graduation, students will be able to communicate who they are and what they know, collaborate with teams, adapt to changing situations, execute their ideas, and solve problems as junior software developers. 
 
-In this repo, you'll find all of the curriculum for ....
+In this repo, you'll find all of the curriculum for 
 
 ### Module One
+
+### Module Two
+
+### Module Three
+
+### Module Four
+
+### Deliverables
+PD deliverables will be reviewed by either Allison, Meg, or both of us. 
+
 
 
 ## Placeholder:
