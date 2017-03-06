@@ -1,14 +1,20 @@
 # Module Four Professional Development
 
-In Module Four, professional development is focused on strategies .... The following are key components of this success:
+Module Four professional development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
 
-* 
+* Build on current and create new relationships with others in the tech industry
+* Prepare to negotiate job offers effectively
+* Describe a vision for the future
+* Create plan aligned to achieving job search goals
+* Demonstrate abilities and knowledge in technical interview practice
+* Engage in complex issues of the tech industry
+* Lead other students in discussions and learning 
 
 #### Why These Objectives:
-Whether students are at Turing to pursue their first job or their twentieth, the career transition they experience at Turing requires them to reflect on their abilities, become comfortable with ambiguity, and embrace new challenges. Turing aims to provide tools and support to do this successfully and be set on the path for a more fulfilling career than what they left behind, and mastering these objectives will set the foundation for this success. 
+The above objectives represent priorities we see for students to master in order to be successful in their job search and emerge from Turing as confident junior developers. Focusing on these specific objectives allows for students to maximize their time effectively for the job search while in their last module at Turing and prepare for the first few weeks post-graduation. 
 
 #### Bringing It All Together:
-By achieving the objectives listed above, students will be able to direct their own learning by knowing when to struggle, when to ask for help, and how to do both effectively. Students will be able to articulate what they need from a working relationship and reflect on how they can improve. Students will be able to understand their own strengths and weaknesses and use setbacks as opportunities for growth. All in all, students will be aware of their abilities and have a framework for how to continue to grow and tackle learning challenges as they go to Module Two. 
+By achieving the objectives listed above, students will be prepared for a successful job search. They will be able to contact and create relationships to build their professional networks and turn meetings into opportunities. Students will be able to describe clear goals for their job search and how they will meet them. They will be able to participate in technical interviews confidently and develop strategies for job offer negotiations. More than anything, students will be able to describe the skills and tools they have to find a job that will put them on a path to a longterm fulfilling career. 
 
 ### Sessions
 
