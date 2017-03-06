@@ -24,7 +24,7 @@ Your career development team consists of:
 
 **Allison Reu Singer, Community Affairs Manager, PD Curriculum Lead**
 
-![Allison Reu Singer](images/Allison_Reu_Singer.jpeg)
+![Allison Reu Singer](images/Allison Reu Singer.jpeg)
 
 Allison is the lead on all professional development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her. She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She is also available for 1-on-1 professional coaching or support throughout your time at Turing but especially in Modules 1 and 2.
 
