@@ -1,6 +1,6 @@
 # Module Three Professional Development
 
-In Module Three, professional development is focused on strategies .... The following are key components of this success:
+In Module Three, students take the skills they've learned in modules one and two and capitalize on them through curriculum that focuses on  The following are key components of this success:
 
 * 
 
@@ -12,7 +12,7 @@ By achieving the objectives listed above, students will be able to direct their 
 
 ### Sessions
 
-* Flower Exercise
+* What Color is Your Parachute: Flower Exercise
 * Gear Up 1: Citizenship
 * Professional Storytelling: Resumes, ReadMes, & Turing Portfolio; includes StrengthsFinder III
 * Finding Opportunities
