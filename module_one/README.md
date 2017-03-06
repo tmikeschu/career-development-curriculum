@@ -39,4 +39,4 @@ In order to fulfill the requirements of module one, students will submit these d
 * Create/Update LinkedIn, GitHub, Twitter, and Stack Overflow profiles 
 * Gear Up-related reflections
 
-You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) except for your partner feedback, which you will submit to Allison directly via DM. 
+You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions) except for your partner feedback, which you will submit to Allison directly via DM. Gear Up reflections should be included in your module portfolio.
