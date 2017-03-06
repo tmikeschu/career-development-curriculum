@@ -6,11 +6,11 @@ Turing’s mission is to unlock human potential by training a diverse, inclusive
 
 The touchstones of this curriculum include these mindsets: 
 
-* Agency: Taking initiative and ownership over your learning and work
-* Empathy: Understanding and sharing others' emotions in order to relate to them 
-* Engagement: Active participation in community
-* Grit: A combination of perseverance and passion
-* Growth: A belief that your abilities can be developed through dedication, hard work, and resiliency
+* **Agency:** Taking initiative and ownership over your learning and work
+* **Empathy:** Understanding and sharing others' emotions in order to relate to them 
+* **Engagement:** Active participation in community
+* **Grit:** A combination of perseverance and passion
+* **Growth:** A belief that your abilities can be developed through dedication, hard work, and resiliency
 
 Through this development, upon graduation, students will be able to communicate who they are and what they know, collaborate with teams, adapt to changing situations, execute their ideas, and solve problems as junior software developers. 
 
