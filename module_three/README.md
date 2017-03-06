@@ -39,5 +39,4 @@ In order to fulfill the requirements of module three, students will submit these
 * Job search action plan for Module 4 using [this template](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/mod_4_action_plan_template.md)
 * Gear Up-related reflections
 
-You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
-
+You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
