@@ -25,7 +25,7 @@ By achieving the objectives listed above, students will be able to direct their 
 * Feedback I 
 * Gear Up 3: Dealing with Difference: Introvert vs. Extrovert
 * Gear Up 4: Storytelling & Strengths (StrengthsFinder I)
-* Branding
+* Developer Identity
 * Gear Up 5: Code: Debugging the Gender Gap
 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
