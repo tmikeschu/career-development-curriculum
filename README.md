@@ -19,7 +19,7 @@ In this repo, you'll find all of the curriculum for professional development, in
 * [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
 * [Module Two](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
 * [Module Three](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
-* [Module Four](
+* [Module Four](https://github.com/turingschool/career-development-curriculum/tree/master/module_four)
 
 ### Deliverables
 PD deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
