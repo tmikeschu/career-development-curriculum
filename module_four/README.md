@@ -1,6 +1,6 @@
-# Module Four Professional Development
+# Module Four Career Development
 
-Module Four professional development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
+Module Four career development is a culmination of the development that students have been working on during their previous three modules. This module is focused on tightening skills and applying them to future goals. The following are key components of success in this module:
 
 * Build on current and create new relationships with others in the tech industry
 * Prepare to negotiate job offers effectively
