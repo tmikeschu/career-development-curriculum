@@ -17,7 +17,7 @@ Through this development, upon graduation, students will be able to communicate 
 In this repo, you'll find all of the curriculum for professional development, including that for Gear Up sessions and information on how each session fits into the end goals for students. Click on the links below to see more information as well as links to sessions within each module folder:
 
 * [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
-* [Module Two](
+* [Module Two](https://github.com/turingschool/career-development-curriculum/tree/master/module_two)
 * [Module Three](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
 * [Module Four](
 
