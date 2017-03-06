@@ -18,7 +18,7 @@ In this repo, you'll find all of the curriculum for professional development, in
 
 * [Module One](https://github.com/turingschool/career-development-curriculum/tree/master/module_one)
 * [Module Two](
-* [Module Three](
+* [Module Three](https://github.com/turingschool/career-development-curriculum/tree/master/module_three)
 * [Module Four](
 
 ### Deliverables
