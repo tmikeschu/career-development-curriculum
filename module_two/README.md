@@ -2,7 +2,7 @@
 
 In Module Two, professional development builds off of strategies on how to be successful at Turing introduced in Module One along with competencies that have more direct correlations to the industry and the job search that will start in Module Three. The following are key components of this module's curriculum:
 
-* Cultivate empathy for working with others
+* Cultivate empathy when working with others
 * Building teamwork competencies using agile practices
 * Applying personal strengths to a teamwork setting
 * Building professional relationships both with cohortmates and mentors
@@ -13,7 +13,7 @@ In Module Two, professional development builds off of strategies on how to be su
 Module Two requires students to work more closely in multi-person teams, and as such, the professional development curriculum is focused on helping students build competencies around teamwork and cultivating professional relationships within the context of the software industry. Students learn about the philosophy and practice of Agile in this module, which will help their teams be successful and they will continue to utilize these practices in later modules. 
 
 #### Bringing It All Together:
-By mastering the objectives listed above, students will be able to put themselves in others' shoes and use that ability to collaborate effectively with teammates. They will be able to describe how their strengths lend themselves and complement teammates' strengths within these projects. Students will be able to 
+By mastering the objectives listed above, students will be able to put themselves in others' shoes and use that ability to collaborate effectively with teammates. They will be able to describe how their strengths lend themselves to and complement teammates' strengths within these projects. Students will be able to describe strategies for conducting cold outreach and creating relationships with others in the industry, starting with mentors within the Turing community. Moreover, students will be able to use the self-awareness they've been building over the past two modules to reflect on feedback and make plans to continuously improve. 
 
 ### Sessions
 
@@ -33,7 +33,7 @@ By mastering the objectives listed above, students will be able to put themselve
 ### Deliverables
 In order to fulfill the requirements of module two, students will submit these deliverables:
 
-* Documentation of mentor outreach conducted using these [guidelines](
+* Documentation of mentor outreach conducted using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i_guidelines.md)
 * Reflection on agile practices used in projects
 * Feedback II reflection: In-person feedback conversation
 * Feedback III reflection: Johari Window & application of strengths to teams 
