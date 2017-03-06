@@ -19,3 +19,18 @@ In this repo, you'll find all of the curriculum for professional development, in
 ### Deliverables
 PD deliverables will be reviewed by either Allison, Meg, or both of us. Students should submit their delvierables via Pull Request to the [submissions file here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
 
+### Who Does What
+Your career development team consists of:
+
+Allison Reu Singer, Community Affairs Manager
+
+Meg Stewart, Employment Coordinator
+
+Lia James, Partnerships Manager
+
+Beth Sebian, Instructor, Gear Up M2-M4 Lead
+
+Ellen Mary Hickmann, Director of Professional Learning, Gear Up M1 Lead
+
+Casey Cumbow, Instructor, Gear Up M1 Lead
+
