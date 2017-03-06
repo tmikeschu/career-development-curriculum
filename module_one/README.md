@@ -1,6 +1,6 @@
-# Module One Professional Development
+# Module One Career Development
 
-In Module One, professional development is focused on strategies to help students be successful at Turing. The following are key components of this success:
+In Module One, career development is focused on strategies to help students be successful at Turing. The following are key components of this success:
 
 * Cultivate Self-Awareness
 * Understand one's key strengths
