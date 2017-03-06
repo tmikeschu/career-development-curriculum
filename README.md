@@ -22,15 +22,18 @@ PD deliverables will be reviewed by either Allison, Meg, or both of us. Students
 ### Who Does What
 Your career development team consists of:
 
-Allison Reu Singer, Community Affairs Manager
+**Allison Reu Singer, Community Affairs Manager, PD Curriculum Lead**
+Allison is the lead on all professional development sessions outside of Gear Up. If you have any questions on sessions or on deliverables, reach out to her (@allison_reu_singer). She checks on and provides any necessary feedback on PD deliverables for Modules 1 and 2, including feedback submissions. She is also available for 1-on-1 professional coaching or support throughout your time at Turing but especially in Modules 1 and 2.
 
-Meg Stewart, Employment Coordinator
+**Meg Stewart, Employment Coordinator**
+Meg conducts 1-on-1 meetings with students in Modules 3, 4, and after graduation to provide support on the job search. She checks on and provides any necessary feedback on PD deliverables for Modules 3 and 4. 
 
-Lia James, Partnerships Manager
+**Lia James, Partnerships Manager**
+Lia creates relatioinships with companies across the country to find out their hiring needs and recommends students who meet those needs. She works with Meg and Allison to learn more about specific strengths and interests of students to help make connections with companies that are a good fit.
 
-Beth Sebian, Instructor, Gear Up M2-M4 Lead
+**Beth Sebian, Instructor, Gear Up M2-M4 Lead**
+Beth creates and helps facilitate Gear Up sessions for Modules 2-4. Any questions about that curriculum or the M2-M4 deliverables can go to her.
 
-Ellen Mary Hickmann, Director of Professional Learning, Gear Up M1 Lead
-
-Casey Cumbow, Instructor, Gear Up M1 Lead
+**Ellen Mary Hickmann, Director of Professional Learning & Casey Cumbow, Instructor, Gear Up M1 Leads**
+Ellen Mary and Casey co-create curriculum and co-facilitate sessions for the Module 1 Gear Up sessions. Any questions about those sessions or their deliverables can go to them. 
 
