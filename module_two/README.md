@@ -39,4 +39,4 @@ In order to fulfill the requirements of module two, students will submit these d
 * Feedback III reflection: Johari Window & application of strengths to teams 
 * Gear Up-related reflections
 
-You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
