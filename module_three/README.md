@@ -1,4 +1,4 @@
-# Module Three Professional Development
+# Module Three Career Development
 
 In Module Three, students capitalize on the skills mastered in Modules One and Two through curriculum that focuses on strategies for finding a fulfilling career and preparing for the job search post-graduation. The following are key components of success in this module:
 
