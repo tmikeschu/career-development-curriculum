@@ -28,11 +28,8 @@ In order to fulfill the requirements of Module Four, students will submit these 
 
 * Final approval of portfolio and resume
 * Documentation of six cold outreach emails completed following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md)
-
-
--Outreach (6 emails are completed)
--Participate in an actual interview or a practice interview
--Complete “The Plan” (action plan for the job hunt)
+* Documentation of practice interview participation
+* Completed action plan for the job search
 * Gear Up-related reflections
 
-You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
+You'll submit all deliverables except for Gear Up reflections [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). Gear Up reflections should be included in your module portfolio.
