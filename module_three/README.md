@@ -1,14 +1,19 @@
 # Module Three Professional Development
 
-In Module Three, students take the skills they've learned in modules one and two and capitalize on them through curriculum that focuses on  The following are key components of this success:
+In Module Three, students capitalize on the skills mastered in Modules One and Two through curriculum that focuses on strategies for finding a fulfilling career and preparing for the job search post-graduation. The following are key components of success in this module:
 
-* 
+* Discover and describe how previous jobs, skills, and experiences contribute to new career path
+* Utilize strategies for finding opportunities in the tech community
+* Articulate and apply strengths to professional situations
+* Describe strategies for successful interviews
+* Present professional story through projects, resume, and Turing portfolio
+* Actively participate in the tech community
 
 #### Why These Objectives:
-Whether students are at Turing to pursue their first job or their twentieth, the career transition they experience at Turing requires them to reflect on their abilities, become comfortable with ambiguity, and embrace new challenges. Turing aims to provide tools and support to do this successfully and be set on the path for a more fulfilling career than what they left behind, and mastering these objectives will set the foundation for this success. 
+Module Three is the module in which the personal development of the previous two modules is applied to job searching and discovering the right path for students' new careers. Introducing technical interview prep, how to research professional opportunities in tech, and how to build on professional branding are focuses in this curriculum because students now have the confidence to tackle these pieces successfully in preparation for a robust job search in Module Four. 
 
 #### Bringing It All Together:
-By achieving the objectives listed above, students will be able to direct their own learning by knowing when to struggle, when to ask for help, and how to do both effectively. Students will be able to articulate what they need from a working relationship and reflect on how they can improve. Students will be able to understand their own strengths and weaknesses and use setbacks as opportunities for growth. All in all, students will be aware of their abilities and have a framework for how to continue to grow and tackle learning challenges as they go to Module Two. 
+Students will leave Module Three with a clear blueprint for their job search by first identifying what it is that they want out of their job search, practicing how to tell that story clearly, and reflecting on how their strengths apply to finding this new, fulfilling career path. Students will be able to apply these ideas practically through utilizing strategies to find opportunities that match their goals and creating straightforward plans to reach those goals. Finally, students will be able to both describe how to and demonstrate being an active citizen in the tech community. 
 
 ### Sessions
 
