@@ -12,14 +12,27 @@ By achieving the objectives listed above, students will be able to direct their 
 
 ### Sessions
 
-* 
+* Cold Outreach II (focus on capitalizing on network) 
+* Gear Up 1: Case Study planning I
+* Interview Prep II (practice sessions) 
+* Gear Up 2: Case Study planning II
+* Negotiations
+* Job Search Strategies II/StrengthsFinder IV: Envisioning the future 
+* Gear Up 3: Case Study
+* Optional career workshops throughout the module
 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
 ### Deliverables
-In order to fulfill the requirements of module two, students will submit these deliverables:
+In order to fulfill the requirements of Module Four, students will submit these deliverables:
 
-* 
+* Final approval of portfolio and resume
+* Documentation of six cold outreach emails completed following [these guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_deliverable_guidelines.md)
+
+
+-Outreach (6 emails are completed)
+-Participate in an actual interview or a practice interview
+-Complete “The Plan” (action plan for the job hunt)
 * Gear Up-related reflections
 
 You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
