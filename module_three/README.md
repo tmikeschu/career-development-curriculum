@@ -12,7 +12,14 @@ By achieving the objectives listed above, students will be able to direct their 
 
 ### Sessions
 
-* 
+* Flower Exercise
+* Gear Up 1: Citizenship
+* Professional Storytelling: Resumes, ReadMes, & Turing Portfolio; includes StrengthsFinder III
+* Finding Opportunities
+* Gear Up 2: Parable of the Polygon/Automation
+* Interview Prep I
+* Job Search Strategies I
+* Gear Up 3: Case Study
 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
