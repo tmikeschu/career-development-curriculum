@@ -24,9 +24,14 @@ By achieving the objectives listed above, students will be able to direct their 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
 ### Deliverables
-In order to fulfill the requirements of module two, students will submit these deliverables:
+In order to fulfill the requirements of module three, students will submit these deliverables:
 
-* 
+* Flower Exercise
+* Resume draft
+* Turing portfolio
+* Trello Board with companies that are being tracked
+* Reflection on how to prepare for technical and/or behavioral interviews
+* Job search action plan for Module 4 using these [guidelines](
 * Gear Up-related reflections
 
 You'll submit all deliverables [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions).
