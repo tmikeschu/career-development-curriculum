@@ -1,6 +1,6 @@
 # Cold Outreach I
 
-[Slides for this session](https://github.com/turingschool/career-development-curriculum/blob/master/files/cold_outreach_i_slides.pdf)
+[Slides for this session](https://docs.google.com/presentation/d/1y8hYW1Szs6xaOkrcWfvsI2sFYN8Lw1fjgJBbwGO0c6k/edit?usp=sharing)
 
 ### Objectives
 * Understand why cold outreach is effective for establishing professional relationships
