@@ -22,29 +22,59 @@ A suggested way to break down completing this deliverable:
 ### Opening
 In the last cold outreach session in Module Two, our focus was mostly on "warm outreach" as you used the mentorship network at Turing to start building relationships. But now we'll take the same principles from that session and apply them to creating relationships with people outside of the Turing community. 
 
-What are those principles? Here's a quick recap:
-* 
+What are the best practices?
 
 ### Why Cold Outreach
+When it comes to your job search, meeting people to have discussions about companies and backgrounds is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach comes in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
 
+When you're emailing people, what is your purpose? Discuss potential ideas
 
-Informational Interviews -- PURPOSE and how to approach them correctly
+Suggested purposes:
+
+* Informational Interview 
+* Tour office
+* Hiring junior developers
+
+Most common purpose: Informational Interviews -- what is the purpose of an informational interview? How can you approach this? 
+
+* Specific time and place
+* Ask about experience, projects, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry
+* Bring pen + paper, leave computer closed
 
 ### How to Leverage Your Network
+How can you leverage the network you already have? 
 
-Use LinkedIn/Built in Colorado/Go to Trello Board
+* Mentors: who does your mentor know who would be helpful to you? 
+* Use your Trello Board
+* LinkedIn: who works at companies that you're interested in?
+* [Built in Colorado](http://www.builtincolorado.com/companies)
 
-Finding Contact Info
+### 
 
-### Logistics
-Subject lines
+### Finding Contact Info
 
-Follow Up -- 
-1. What if they don't respond?
-2. what to do when they do respond
+
+### Crafting your Email
+Develop a template to use. This will help you stay on script when you might feel nervous.
+
+1. Use the subject line: 
+    "Life at [your amazing company]" 
+    OR
+    "
+2. Greeting (simple, not overly formal): 
+    Hello [Name],
+3. Body: 
+    *Who am I? How did I find you? What do I want?*
+    I'm a software developer in Denver. I found your contact info after researching ....
+
 
 ### What NOT to do
 * 
+
+
+### Follow Up
+1. What if they don't respond?
+2. what to do when they do respond
 
 ### Examples
 Example Emails
