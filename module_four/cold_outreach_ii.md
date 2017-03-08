@@ -56,4 +56,4 @@ Spend ten minutes  Draft emails and discuss with groups. Instructor models first
 Reminder of guidelines for feedback conversations -- include helpful constructive comment examples from Lia/Meg's slides
 
 ### Closing & Next Steps
-Remember to 
+Remember to document your cold outreach in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
