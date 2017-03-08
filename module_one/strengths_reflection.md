@@ -1,3 +1,0 @@
-# StrengthsFinder Reflection
-
-### 
