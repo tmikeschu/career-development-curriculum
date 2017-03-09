@@ -49,6 +49,18 @@ How can you leverage the network you already have?
 * LinkedIn: who works at companies that you're interested in?
 * [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
 
+### Do Some Research
+What do you know about the person you're contacting? 
+
+Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Check out these resources:
+
+* Product Hunt 
+* AngelList
+* Venture Beat 
+* CrunchBase
+
+You need to know their goals as much as you want them to know yours.
+
 ### Finding Contact Info
 Tools:
 
@@ -62,11 +74,13 @@ Develop a template to use. This will help you stay on script and get to the poin
 
 1. Use the subject line: 
 
+Create a subject line that instantly makes the recipient understand that the message is for them. The point is to isolate a unique reason that explains why this matters to them and entices them to read more. Make it:
+
     * Short and real - lose the sales pitch
     * Relevant and personal
     * Consider how the snippet extends the subject line
     
-    "Life at [your amazing company]" 
+    "Life at [amazing company]" 
     OR
     "
 2. Greeting (simple, not overly formal): 
