@@ -25,9 +25,9 @@ In the last cold outreach session in Module Two, our focus was mostly on "warm o
 What are the best practices?
 
 ### Why Cold Outreach
-When it comes to your job search, meeting people to have discussions about companies and backgrounds is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach comes in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
+When it comes to your job search, meeting people to have discussions about companies and experiences is much more effective than sending your resume out into the abyss. Creating opportunities to meet those people is where cold outreach comes in. The technology industry is a relatively small community, and networking is key to becoming a part of that community. 
 
-When you're emailing people, what is your purpose? Discuss potential ideas
+When you're reaching out to people, what is your purpose? Discuss potential ideas. (Hint: It's not to ask for a job)
 
 Suggested purposes:
 
@@ -47,17 +47,25 @@ How can you leverage the network you already have?
 * Mentors: who does your mentor know who would be helpful to you? 
 * Use your Trello Board
 * LinkedIn: who works at companies that you're interested in?
-* [Built in Colorado](http://www.builtincolorado.com/companies)
-
-### 
+* [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
 
 ### Finding Contact Info
+Tools:
 
+* [Email Hunter](https://emailhunter.co/)
+* [Find That Lead](https://findthatlead.com/)
+* GitHub
+* Personal website
 
 ### Crafting your Email
-Develop a template to use. This will help you stay on script when you might feel nervous.
+Develop a template to use. This will help you stay on script and get to the point.
 
 1. Use the subject line: 
+
+    * Short and real - lose the sales pitch
+    * Relevant and personal
+    * Consider how the snippet extends the subject line
+    
     "Life at [your amazing company]" 
     OR
     "
