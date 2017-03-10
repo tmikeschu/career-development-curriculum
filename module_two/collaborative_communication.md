@@ -1,6 +1,6 @@
 # Collaborative Communication
 
-[Slides for this lesson]()
+[Slides for this lesson](https://docs.google.com/presentation/d/1C9FxYMAnfQU1O2XmK4xDlhqnRWwkjqOswAjUI3mJtZk/edit?usp=sharing)
 
 ## Pre-Reading from *How to Win Friends & Influence People in the Digital Age*:
 
