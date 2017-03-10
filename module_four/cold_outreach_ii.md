@@ -88,7 +88,7 @@ Develop a template to use. This will help you stay on script and get to the poin
 
     *Who am I? How did I find you? What do I want?*
     
-    I'm a software developer in Denver about to graduate from the [Name of program] at Turing School of Software & Design. I found your contact info after researching education-focused startups in Denver. I'm interested in learning more about the work goin on at [Company Name] and the Colorado startup scene in general. 
+    I'm a software developer in Denver about to graduate from the [Name of program] at Turing School of Software & Design. I found your contact info after researching education-focused startups in Denver. I'm interested in learning more about the work going on at [Company Name] and the Colorado startup scene in general. 
     
     *What interesting experience do I have that might make me worth meeting?*
     
