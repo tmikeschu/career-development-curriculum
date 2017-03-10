@@ -22,7 +22,7 @@ Paragraph reflection on:
 
 * Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
 
-Submit your reflection to your file [here](. 
+Submit your reflection to your file [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions). 
 
 ## Opening
 Recap project management and agile practices:
