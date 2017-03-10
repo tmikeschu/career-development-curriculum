@@ -105,7 +105,8 @@ Develop a template to use. This will help you stay on script and get to the poin
 4. Closing (keep it simple):
 
       Thanks,
-      Name
+      
+      [Your Name & contact info. Include your personal site if applicable]
 
 Because you've researched your contact, you'll know if there are certain things you may have in common, such as:
 
