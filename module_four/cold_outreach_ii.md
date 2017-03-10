@@ -160,3 +160,5 @@ Don't:
 
 ### Closing & Next Steps
 Remember to document your cold outreach in your Trello board -- this will also make it easier to fill out the deliverable guidelines when you've kept a record of what has happened. 
+
+For more on the effectiveness of outreach and follow up, check out 1606-BE alum Jesse Spevack's [blog post on his job search experience](http://www.jessespevack.com/blog/2017/3/8/get-hired-how-i-went-from-bootcamp-grad-to-engineer)
