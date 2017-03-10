@@ -37,10 +37,6 @@ Suggested purposes:
 
 Most common purpose: Informational Interviews -- what is the purpose of an informational interview? How can you approach this? 
 
-* Specific time and place
-* Ask about experience, projects, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry
-* Bring pen + paper, leave computer closed
-
 ### How to Leverage Your Network
 How can you leverage the network you already have? 
 
@@ -152,9 +148,10 @@ Use the meeting to build a relationship.
 
 Do:
 
-* Ask questions
+* Ask questions -- ask about experience, projects, where they’d work next, what they’d change about their current role/team, advice for getting started in the industry
 * Make eye contact
 * Have your story ready to share
+* Bring pen + paper, leave computer closed
 
 Don't:
 
