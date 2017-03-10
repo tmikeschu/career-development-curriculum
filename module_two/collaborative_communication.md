@@ -59,12 +59,8 @@ Back in your small groups, define the role of the project manager for your group
 	better. During the group’s next check-in, Teammate A presents the code he/she produced, takes credit for 
 	it, and the other teammates sit silently. Discuss what should be done in this situation as a team. 
 	
-	* How can the project manager help in this situation? What would you do if Teammate A was your project 
-	manager?
-	* How will each of you exemplify leadership within your team, whether you are the project manager or 
-	not?
-	* Discuss one (or more) of the agile practices you learned about in the Project Management lesson. 
-	Which one(s) will you use in your team? What will that look like?
+
+How can the project manager help in this situation? What would you do if Teammate A was your project manager?
 
 ## How to handle Failure:
 **Discuss Chapter 5 in small groups:**
