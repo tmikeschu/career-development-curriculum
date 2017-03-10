@@ -18,9 +18,11 @@
 * Success in career: Your technical skills will help you get a job. Your project management and communication skills will help you *keep* a job. Demonstrating that you can successfully work with teams and learn from mistakes in a productive way will be a huge asset to any organization
 
 ## Deliverable:
-Paragraph reflection in your portfolio on:
+Paragraph reflection on:
 
 * Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+
+Submit your reflection to your file [here](. 
 
 ## Opening
 Recap project management and agile practices:
