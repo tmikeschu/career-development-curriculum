@@ -45,6 +45,18 @@ How can you leverage the network you already have?
 * LinkedIn: who works at companies that you're interested in?
 * [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
 
+### Put the COLD in Outreach
+When creating a completely new relationship, here are some tips:
+
+* No Turing/gSchool/HA alumni
+* Prefer to avoid companies where alums are working
+* Someone you've met but not worked with is OK
+* Where are alumni already working? Here is a quick list (but not exhaustive) of companies that you should skip:
+
+8th Light, Active Network, AdHawk, Advantage Integrated, Agilion, Allstate, American Thrombosis and Hemotosis Network, Aurigae, Blue Apron, Bonobos, Brandfolder, CA Technologies, Captain U, CareZone, Cirro, Coders Workshop, Cognizant Quick Left, CustomInk, DHR.net, Democracy Works, Digital Ocean, DispatchHealth, Ello, Equal Opportunity Schools, FanDuel Inc, Gitlab, Glassbreakers, GoSpotCheck, Gramercy Tech, Granicus, Guild Education, Harry Fox Agency (aka SESAC/Rumblefish), Huron, Impekable, Influx Data, Inquicker, Inspirato, Instacart, Invoca, Kite, Muve Health, NextRequest, Optum, Oracle, Politech, Procore, Real Geeks, Rumblefish, Shopify, Splice, Stitch Fix, TEKSystems, Tack Mobile, Tendril, Trelora, United Health Group, Vermont Public Radio, Vulk Coop, Wazee Digital, WellMatch/Aetna, Welltok Inc, Western Union, Wombat Security, eGauge Systems, iCentris, iTrellis
+
+If you'd like to check any other company, feel free to DM Meg.
+
 ### Do Some Research
 What do you know about the person you're contacting? 
 
