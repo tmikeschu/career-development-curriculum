@@ -43,7 +43,6 @@ How can you leverage the network you already have?
 * Mentors: who does your mentor know who would be helpful to you? 
 * Use your Trello Board
 * LinkedIn: who works at companies that you're interested in?
-* [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
 
 ### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
@@ -62,10 +61,16 @@ What do you know about the person you're contacting?
 
 Find out where their interests lie. Read their Medium blog posts, sign up for their newsletters, and check out their websites. Some other resources:
 
+* Research their projects on GitHub
+* Find individuals on GitHub
+* Look for community builders (events, sponsors, etc)
+* Mine Meetup
+* [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
+* [Slacklist](http://www.slacklist.info/) 
 * [AngelList](https://angel.co/)
 * [CrunchBase](https://www.crunchbase.com/#/home/index) 
 
-You need to know their goals as much as you want them to know yours.
+You need to understand your contact's goals as much as you want them to know yours.
 
 ### Finding Contact Info
 Tools:
