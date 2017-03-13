@@ -45,7 +45,7 @@ How can you leverage the network you already have?
 * LinkedIn: who works at companies that you're interested in?
 * [Built in Colorado](http://www.builtincolorado.com/companies): find more companies
 
-### Put the COLD in Outreach
+### Put the COLD in Cold Outreach
 When creating a completely new relationship, here are some tips:
 
 * No Turing/gSchool/HA alumni
