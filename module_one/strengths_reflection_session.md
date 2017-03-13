@@ -15,18 +15,25 @@ Now that you have taken the StrengthsFinder assessment, let's dive into what the
 ### I Do
 Allison will model how she would reflect on her results:
 
+* Strategic
+* Empathy
+* Intellection
+* Developer
+* Input
+
 
 
 
 ### Next Steps & Coaching
+StrengthsFinder will continue to be a part of your career development at Turing...
 
-
+Utilizing coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
 
 **What is professional coaching?**
-A professional coach is someone who can 
 
-All coaching sessions are confidential 
+Coaching can be a helpful tool as students work to realize their own value both as a professional and as an individual as it provides a framework for students to develop themselves to their fullest potential. As a coach, Allison works to get to know students as individuals, helping to uncover their core values, strengths, and passions through discussion, guidance, and reflection. She acts as a thought partner in these discussions. Through coaching, students are able to cultivate a stronger sense of self, which leads them to achieving peak performance in both personal and professional goals.   
 
+All coaching sessions are confidential. 
 
 ### Time for Reflection
 Now, take the next 30-40 minutes to read through your results and [complete the reflection]( to DM to Allison. If you'd like a follow-up meeting with Allison to discuss coaching around your goals, please indicate that in your message. 
