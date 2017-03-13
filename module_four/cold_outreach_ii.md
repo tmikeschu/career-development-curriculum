@@ -48,7 +48,7 @@ How can you leverage the network you already have?
 When creating a completely new relationship, here are some tips:
 
 * No Turing/gSchool/HA alumni
-* Prefer to avoid companies where alums are working
+* Try to avoid companies where alums are working
 * Someone you've met but not worked with is OK
 * Where are alumni already working? Here is a quick list (but not exhaustive) of companies that you should skip:
 
