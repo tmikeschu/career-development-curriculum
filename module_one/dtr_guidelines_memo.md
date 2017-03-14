@@ -26,26 +26,30 @@ Any additional questions that you would like to add:
 
 
 
+
+
 ### Template for DTR Memo
 
 #### Project: 
 #### Group Member Names:
 
-#### Project Expectations: What does each group member hope to get out of this project? 
+Project Expectations: What does each group member hope to get out of this project? 
 
 Goals and expectations:
 	
 Team strengths:
 
-Schedule Expectations: When are we available to work together and individually?
+How to overcome obstacles:
 
-Communication Expectations: How and often will we communicate? How do we keep lines of communication open?
+Schedule Expectations (When are we available to work together and individually?):
 
-Abilities Expectations: Technical strengths and areas for desired improvement:
+Communication Expectations (How and often will we communicate? How do we keep lines of communication open?):
 
-Workload Expectations: What features do we each want to work on?
+Abilities Expectations (Technical strengths and areas for desired improvement):
 
-Workflow Expectations: Git workflow/Tools/Code Review/Reviewing Pull Requests: 
+Workload Expectations (What features do we each want to work on?):
+
+Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests): 
 
 Expectations for giving and receiving feedback:
 
