@@ -30,8 +30,9 @@ Any additional questions that you would like to add:
 
 ### Template for DTR Memo
 
-#### Project: 
-#### Group Member Names:
+Project: 
+
+Group Member Names:
 
 Project Expectations: What does each group member hope to get out of this project? 
 
