@@ -23,7 +23,7 @@ Students will leave Module Three with a clear blueprint for their job search by 
 * Finding Opportunities
 * Gear Up 2: Parable of the Polygon/Automation
 * Interview Prep I
-* Job Search Strategies I
+* [Job Search Strategies I](https://github.com/turingschool/career-development-curriculum/blob/master/module_three/job_search_strategies_i.md)
 * Gear Up 3: Case Study
 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
