@@ -9,7 +9,7 @@
 Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison. If you would like to schedule a coaching session with her, please indicate that in your DM to her. 
 
 ### What is a Strength?
-The StrengthsFinder assessment doesn't measure strengths exactly -- instead, it's examining the presence of certain talents in 34 areas. Strengths are rather the product of building one's talents combined with skills and knowledge. Here is the breakdown of this development:
+The StrengthsFinder assessment doesn't measure strengths exactly -- instead, it's examining the presence of certain talents in [34 areas](https://github.com/turingschool/career-development-curriculum/blob/master/files/BriefDescriptionsOfThemes.pdf). Strengths are rather the product of building one's talents combined with skills and knowledge. Here is the breakdown of this development:
 
 A **strength** is the ability to consistently produce a positive outcome through near-perfect performance in a specific task. Examples:
 
