@@ -18,7 +18,7 @@ By achieving the objectives listed above, students will be prepared for a succes
 
 ### Sessions
 
-* Cold Outreach II (focus on capitalizing on network) 
+* [Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md) 
 * Gear Up 1: Case Study planning I
 * Interview Prep II (practice sessions) 
 * Gear Up 2: Case Study planning II
