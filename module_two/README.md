@@ -17,8 +17,8 @@ By mastering the objectives listed above, students will be able to put themselve
 
 ### Sessions
 
-* BEE: Collaboration
 * [Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md) 
+* BEE: Collaboration
 * Gear Up 1: Empathy
 * Feedback II 
 * Crucial Conversations/Microaggressions Follow-Up 
