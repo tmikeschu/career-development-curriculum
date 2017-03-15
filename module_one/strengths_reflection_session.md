@@ -13,14 +13,22 @@ A **strength** is the ability to consistently produce a positive outcome through
 
 A strength is composed of:
 
-* Skills
-* Knowledge
-* Talents
+* **Skills:** Your basic abilities to perform the fundamental steps of a task, such as your basic ability to move through the fundamental steps of operating a computer. Skills do not naturally exist within us; they must be acquired through formal or informal training and practice.
+* **Knowledge:** Simply what you know, such as your awareness of historical dates and your grasp of the rules of a game. Knowledge does not naturally exist within us; it must be acquired through formal or informal education.
+* **Talents:** The ways in which you naturally think, feel, and behave, such as the inner drive to compete, sensitivity to the needs of others, and the tendency to be outgoing at social gatherings. Although talents must come into existence naturally and cannot be acquired like skills and knowledge, we each have unique talents within us.
 
-As Lee Saville (1608-BE) once said (and this is a paraphrase), strengths are like a landscape -- there are mountains, valleys, plateaus. We have access to all of our strengths, but they might be in different stages of development at a given time. 
+Because your most powerful talents represent the best of your natural self, they are your best opportunities to perform at levels of excellence and from which to build strengths.
+
+* Your **dominant talents** naturally appear frequently and powerfully. Almost no matter where you are or what you are doing, your dominant talents are active.
+* Your **supporting talents** naturally surface only when their support is needed, and do so with only relative power. Because they aren’t as powerful, your supporting talents are unlikely to serve as a foundation for strengths development.
+* Your **lesser talents** naturally appear rarely, and they offer little power. Because of that minimal power, lesser talents seldom contribute to strengths development.
+
+As Lee Saville (1608-BE) once said (and this is a paraphrase), strengths development is like looking at a landscape -- there are mountains, valleys, plateaus. We have access to all of our strengths, but they might be in different stages of development at a given time. 
 
 ### Building Your Strengths
-To develop your strengths, start by looking at the top 5 talent themes that came up for you in your StrengthsFinder assessment. 
+To develop your strengths, start by looking at the top 5 talent themes that came up for you in your StrengthsFinder assessment. Which of them best describe your greatest talents — the ways in which you most consistently and productively think, feel, and behave?
+
+These top 5 themes will be great resources 
 
 ### How to Use StrengthsFinder Results
 Now that you have taken the StrengthsFinder assessment, let's dive into what the results mean. While 
