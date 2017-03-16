@@ -27,15 +27,29 @@ Because your most powerful talents represent the best of your natural self, they
 
 As Lee Saville (1608-BE) once said (and this is a paraphrase), strengths development is like looking at a landscape -- there are mountains, valleys, plateaus. We have access to all of our strengths, but they might be in different stages of development at a given time. 
 
-### Building Your Strengths
+### Developing Your Strengths
 To develop your strengths, start by looking at the top 5 talent themes that came up for you in your StrengthsFinder assessment. Which of them best describe your greatest talents — the ways in which you most consistently and productively think, feel, and behave?
 
-These top 5 themes will be great resources 
+These top 5 themes will be great resources for you as you work to understand your talents. These results were generated from your spontaneous, top-of-mind reactions to the paired descriptors presented by the Clifton StrengthsFinder, and *your spontaneous reactions to situations you encounter are the best indicators of your talents.*
+
+As you think about how to develop your strengths, consider these other areas that will help you refine your talents:
+
+* **Passions** can reveal the presence of a talent, particularly when they are felt early in life. A passion can be described as an internal force, an almost magnetic attraction, that leads you to a particular activity or environment time and again. 
+* **Rapid learning** reveals other traces of talent. In the context of a new challenge or a new environment (such as Turing), something sparks your talents. Immediately your brain seems to light up as if a whole bank of switches were suddenly flicked to “on” — and the speed at which you anticipate the steps of a new activity, acquire a new skill, or gain new knowledge provides a telltale clue to the talent’s presence and power.
+* **Satisfaction** is psychological fulfillment that results when you take on and successfully meet challenges that engage your greatest talents. Pay close attention to the situations that energize you the most. Through identifying them, you will be able to pinpoint some of your dominant talents.
+* **Timelessness** also can serve as a clue to talent. If you have ever become so engrossed in an activity that you lost all track of time, it may have been because the activity engaged you at a deep, natural level — the level of great talent.
+* **Glimpses of excellence** are flashes of outstanding performance that have been observed by you or others. In these moments, the task at hand has tapped some of your greatest talents and directly displayed your potential for strength.
+
+Using your StrengthsFinder results will help you gather clues to identify your most powerful talents and develop your strengths as you learn new skills and prepare to transition careers. 
 
 ### How to Use StrengthsFinder Results
-Now that you have taken the StrengthsFinder assessment, let's dive into what the results mean. While 
+Now that you have taken the StrengthsFinder assessment, let's dive into what the results mean. After taking the assessment, you were given your top 5 talent themes as well as a few PDF documents:
 
-### I Do
+* Signature Theme Report: This doc contains definitions of how the StrengthsFinder team defines your top 5 themes
+* Strengths Insight Report: This doc gives personalized insights for you based on your results. 
+* Strengths Insight and Action-Planning Guide: Along with insights, this document gives suggestions for action steps you could take to develop these talents more. 
+
+#### I Do
 Allison will model how she would reflect on her results:
 
 * Strategic
@@ -44,13 +58,10 @@ Allison will model how she would reflect on her results:
 * Developer
 * Input
 
-
-
-
 ### Next Steps & Coaching
-StrengthsFinder will continue to be a part of your career development at Turing...
+StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, Allison is always available for 1-on-1 professional coaching. You can book time with her [here](https://allisonreusinger.youcanbook.me/) or just send her a DM. 
 
-Utilizing coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
+Participating in coaching is completely optional, and even if you don't want to participate in coaching this module, you can participate at any point during your time at Turing. 
 
 **What is professional coaching?**
 
