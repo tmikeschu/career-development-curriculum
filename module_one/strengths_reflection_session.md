@@ -3,7 +3,10 @@
 [Slides for this session](https://docs.google.com/presentation/d/1lYiWl7gyoViF-ln4m_LY-Jx8wFcRAvJ428ivR8MU0sc/edit?usp=sharing)
 
 ### Objectives
-* Understand how strengths are developed...
+* Understand how what constitutes a strength
+* Understand how to develop a strength
+* Reflect on StrengthsFinder results 
+* Create goals for your professional development at Turing
 
 ### Deliverable
 Complete this [reflection](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/strengths_reflection_guidelines.md) in your own gist and DM it to Allison. If you would like to schedule a coaching session with her, please indicate that in your DM to her. 
