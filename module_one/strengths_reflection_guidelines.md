@@ -2,24 +2,33 @@
 
 # Strengths Reflection & Coaching Requests
 
-1. Read through the definitions of the strengths from your report as well as the suggestions that StrengthsFinder provided for you. How would you define each of your top 5 strengths in your own words?
+15-20 questions at the most
+
+1. Read through the definitions of the talents from your report as well as the suggestions that StrengthsFinder provided for you. How would you define each of your top 5 talents in your own words?
 
 
-2. Do these strengths resonate with you? Why or why not? 
-
-
-
-How have you seen yourself using each of these strengths?
-
-
-
-3. How often do you use these strengths?
+2. Do these top 5 talent themes resonate with you? Why or why not? 
 
 
 
+3. How have you seen yourself using each of these talents?
 
 
-5. How might using these strengths in a certain way help you reach your goals while you're at Turing?.....Define goals first?
+
+4. How often do you use these talents?
+
+
+
+
+5. What talents could you develop further that would help you in your growth at Turing and in your new career as a software developer?
+
+
+
+
+
+
+6. LAST QUESTION: When you think about this next stage of your career, what professional goals do you have?
+
 
 
 
@@ -39,7 +48,6 @@ How have you seen yourself using each of these strengths?
 
 Others to add:
 
-* What talents could you develop further that would help you in your growth at Turing and in your new career as a software developer?
 * What strengths could you use to help you in an area in which you might struggle?
 * Reflect on strengths you rely on. How could you use these strengths differently to help you manage a weakness?
 * What interpersonal strengths could you use more of to help you manage a difficult project partner situation?
