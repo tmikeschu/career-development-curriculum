@@ -14,7 +14,7 @@ Complete this [reflection](https://github.com/turingschool/career-development-cu
 ### What is a Strength?
 The StrengthsFinder assessment doesn't measure strengths exactly -- instead, it's examining the presence of certain talents in [34 areas](https://github.com/turingschool/career-development-curriculum/blob/master/files/BriefDescriptionsOfThemes.pdf). Strengths are rather the product of building one's talents combined with skills and knowledge. Here is the breakdown of this development:
 
-A **strength** is the ability to consistently produce a positive outcome through near-perfect performance in a specific task. Examples:
+A **strength** is the ability to consistently produce a positive outcome through near-perfect performance in a specific task. 
 
 A strength is composed of:
 
