@@ -61,13 +61,29 @@ Allison will model how she would reflect on her results:
 * Developer
 * Input
 
-1. 
-2.
-3.
-4.
-5.
-6.
-
+1. Discover the meaning of a talent theme:
+    * How does StrengthsFinder define these themes?
+    * What does the personalized definition mean to me?
+    * What words or phrases stick out to me? 
+2. Reflect: when have I seen myself doing this?
+    * How do I use this talent already?
+    * Are there ways I might not be aware of this talent?
+    * When has this talent been helpful for me?
+    * When have I seen this talent get in my way?
+    * How do I feel about the level to which I use this talent on a regular basis?
+3. Goal-setting: how would I like to develop this theme more?
+    * What professional goals do I want to focus on right now? How might developing this theme help me with those?
+    * How can I build more awareness around this theme?
+    * In which situations would developing this theme be very beneficial?
+    * How do I want others to see in regards to this theme?
+4. Look at suggestions for action and consider options:
+    * What option(s) sound the most doable?  
+    * What are some new ways to use this theme that I hadn’t considered before?
+    * What obstacles are there to trying these options?
+5. Turn options into action steps:
+    * What one action step do I want to commit to in order to help me with my goals?
+    * How can I maximize my time to ensure that I complete this action step?
+    * How will I know that I’ve successfully completed this action step?
 
 ### Next Steps & Coaching
 StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, Allison is always available for 1-on-1 professional coaching. You can book time with her [here](https://allisonreusinger.youcanbook.me/) or just send her a DM. 
