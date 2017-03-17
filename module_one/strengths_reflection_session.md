@@ -75,7 +75,7 @@ Allison will model how she would reflect on her results:
     * What professional goals do I want to focus on right now? How might developing this theme help me with those?
     * How can I build more awareness around this theme?
     * In which situations would developing this theme be very beneficial?
-    * How do I want others to see in regards to this theme?
+    * How do I want others to see me in regards to this theme?
 4. Look at suggestions for action and consider options:
     * What option(s) sound the most doable?  
     * What are some new ways to use this theme that I hadn’t considered before?
