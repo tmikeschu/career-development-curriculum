@@ -61,6 +61,14 @@ Allison will model how she would reflect on her results:
 * Developer
 * Input
 
+1. 
+2.
+3.
+4.
+5.
+6.
+
+
 ### Next Steps & Coaching
 StrengthsFinder will be a helpful tool we'll use throughout your career development sessions at Turing. If you would like support in building your strengths individually or just want someone to talk with about your goals or how to be successful at Turing, Allison is always available for 1-on-1 professional coaching. You can book time with her [here](https://allisonreusinger.youcanbook.me/) or just send her a DM. 
 
