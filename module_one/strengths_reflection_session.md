@@ -3,7 +3,7 @@
 [Slides for this session](https://docs.google.com/presentation/d/1lYiWl7gyoViF-ln4m_LY-Jx8wFcRAvJ428ivR8MU0sc/edit?usp=sharing)
 
 ### Objectives
-* Understand how what constitutes a strength
+* Understand what constitutes a strength
 * Understand how to develop a strength
 * Reflect on StrengthsFinder results 
 * Create goals for your professional development at Turing
