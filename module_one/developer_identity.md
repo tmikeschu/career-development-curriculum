@@ -24,11 +24,9 @@
   <td><a href="https://www.linkedin.com/profile/view?id=30991974&authType=NAME_SEARCH&authToken=nKiA&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437430498336%2Ctas%3Alia%20jame">Lia James</a></td>
   <td><a href="https://www.linkedin.com/in/jcasimir?authType=NAME_SEARCH&authToken=iqEN&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A40587160%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970121949%2Ctas%3Ajeff%20ca">Jeff Casimir</a></td>
   <td><a href="https://www.linkedin.com/in/novohispano?authType=NAME_SEARCH&authToken=16ZS&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A20849959%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970228139%2Ctas%3AJorge">Jorge Tellez</a></td>
-  <td><a href="https://www.linkedin.com/in/stevekinney?authType=NAME_SEARCH&authToken=6npp&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A14483220%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970363425%2Ctas%3Asteve%20kin">Steve Kinney</a></td>
    </tr>
    <tr>
   <td><a href="https://www.linkedin.com/in/joshmejia?authType=NAME_SEARCH&authToken=3STz&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A56293325%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970399095%2Ctas%3Ajosh%20m">Josh Mejia</a></td>
-  <td><a href="https://www.linkedin.com/in/rwarbelow?authType=NAME_SEARCH&authToken=vEQ0&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A249110372%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1470970432281%2Ctas%3Arachel">Rachel Warbelow</a></a></td>
   <td><a href="https://www.linkedin.com/in/romeeka-gayhart-59543915?authType=NAME_SEARCH&authToken=g-4l&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A51835649%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970459422%2Ctas%3ARom">Meeka Gayhart</a></td>
   <td><a href="https://www.linkedin.com/in/michaeldao?authType=NAME_SEARCH&authToken=uW_W&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A35154597%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970491750%2Ctas%3Amichael%20d">Mike Dao</a></td>
   </tr>
@@ -45,7 +43,6 @@
   <td><a href="https://www.linkedin.com/in/joanne-m-w-liu-09a98614?authType=NAME_SEARCH&authToken=ZyaM&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A50191606%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970770884%2Ctas%3Ajoanne">Joanne Liu</a></td>
   </tr>
    <td><a href="https://www.linkedin.com/in/allisonreu?authType=NAME_SEARCH&authToken=WAyt&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A63016265%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970802229%2Ctas%3Aallison">Allison Reu Singer</a></td><td><a href="https://www.linkedin.com/in/erin-neill-williams-793696a8?authType=NAME_SEARCH&authToken=XB3a&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A383897055%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970853087%2Ctas%3AErin%20Will">Erin Williams</a></td>
-  <td><a href="https://www.linkedin.com/in/maryelizabethcutrali?authType=NAME_SEARCH&authToken=SXv5&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A44368473%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1470970953572%2Ctas%3AMary%20cut">Mary Cutrali</a></td>
     </tr>
 </table>
 
