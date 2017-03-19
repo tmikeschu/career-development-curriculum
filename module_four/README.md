@@ -25,7 +25,7 @@ By achieving the objectives listed above, students will be prepared for a succes
 * Negotiations
 * Job Search Strategies II/StrengthsFinder IV: Envisioning the future 
 * Gear Up 3: Case Study
-* Optional career workshops throughout the module
+* 1-on-1 meetings with Meg
 
 * Optional Session (offered during Weeks 2 and 4 Spike): Stress Management Strategies
 
