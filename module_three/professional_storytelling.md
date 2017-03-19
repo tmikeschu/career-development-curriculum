@@ -49,6 +49,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 * [Canva](https://www.canva.com/)
 * [I Need a Resume](http://ineedaresu.me/#/)
 * [Standard Resume](https://standardresume.co/)
+* [Kick Resume](https://www.kickresume.com/)
 
 ### Content Inclusion
 - Add a __Header:__ Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
