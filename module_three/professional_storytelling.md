@@ -3,13 +3,20 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
+-Telling your story: 
+	1. What do we mean by professional story?
+	2. crafting professional story -- building more on what they started in M1
+		A. Incorporate strengths
+	3. practicing telling professional story
+		A. Beyond conversations, here are the places you'll convey your professional stories: resumes, cover letters, portfolio, personal sites, etc. 
+		B. Actual practice -- start building Turing portfolio
+
 ### Objectives
 * 
 
-### Deliverables
-* Resume draft
-* 
-
+### Deliverable
+* Link to Turing portfolio with your name, photo, description, 1 project, and resume
+You'll submit this link [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
 Pretend that the person next to you is a stranger at a meetup. Turn to them right now and introduce yourself in 3 sentences to describe who you are. 
@@ -17,12 +24,23 @@ Pretend that the person next to you is a stranger at a meetup. Turn to them righ
 **Takeaways:**
 * What was easy about this introduction?
 * What was difficult about this introduction? 
+* When you were describing yourself, what kinds of words did you use? What kind of developer did you describe yourself as?
 
-The aim of today's session is to help make interactions like this feel more  
+The aim of today's session is to help make interactions like this feel more natural and ... 
 
 ### Telling Your Story
+To review, when we talk about telling your story, you should focus on these 3 questions:
+
+* Who are you?
+* How did you get here?
+* What's next?
+
+
+
 
 Strengths reflection piece...
+
+Using your Flower Exercise that you've been working on...
 
 ### Your Turn
 
@@ -77,14 +95,17 @@ Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-res
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
 ### Cover Letters
+Cover letters are a perfect way to tell your story when you're applying for a job
+
 
 [Jason Zimdars Example](http://thinkcage.com/svn/)
+
+### Turing Portfolio
+
+
 
 ### Work Time
 
 
 ### Closing
 Find another person in the room to introduce yourself in a few sentences using the new story you've been developing. 
-
-
-How do you know when you have crossed the line and entered the realm where you can call yourself a developer? Stop what you are doing right now and Google your name, if the results do not show that you are a developer, then this talk is for you. This talk will empower new developers to make themselves known in the community and not wait to start. This talk will also cover ways to build on your experience as well as develop your story to set yourself apart from the other developers looking for a job.
