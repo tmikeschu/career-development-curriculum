@@ -4,7 +4,9 @@
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
 ### Objectives
-* 
+* Understand the purpose of a professional story
+* Explore examples and opportunities for telling a professional story
+* Revise and refine your professional story and how you tell it 
 
 ### Deliverable
 * Link to Turing portfolio with your name, photo, description, 1 project, and resume
@@ -19,18 +21,31 @@ Think about a story that you love -- it can be a fictional story, maybe somethin
 * How did your partner tell the story? 
 * What made the story interesting?
 
-The aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
+We are all inherent storytellers, and the aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
 
 ### Telling Your Story
 Our lives are made up of stories -- they are how we make sense of our experiences. Stories define who we are. The same is true with your professional story. Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
 
-Disclaimer: this is not a story that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
+**Disclaimer:** When we say story, this is not something that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
 
 To review, these 3 questions will get you started on your story: 
 
 * Who are you?
 * Why are you here? (Consider both your background but also what drives you to be in this field)
 * What's next? 
+
+**Discuss:** What other elements make a compelling story?
+
+Consider how to:
+
+* Create trust with the listener
+* Create coherence
+* Describe causality -- what made you want to make this change? How is it grounded in your character?
+* Utilize a story form
+* Tell multiple stories -- how can you adapt your story to different situations?
+* Practice until it's completely natural
+
+These ideas and more are explored in this [Harvard Business Review article](https://hbr.org/2005/01/whats-your-story)
 
 Now, let's dive into your story and expand on these questions by tying in elements of your Turing experience. 
 
@@ -49,6 +64,7 @@ Think back to the story you told your partner at the beginning of today's sessio
 * Your Strengths: what makes you the "hero" of this story?
 	* If you took StrengthsFinder, reflect on how developing your strengths at Turing has influenced your story
 * How have you grown at Turing? What obstacles have you overcome? 
+* What turning points led you to make this career change?
 * What does your third act look like? How does transitioning to this career bring some closure to this narrative arc?
 
 **Pair & Share:** Pair up with someone else and share your story. 
