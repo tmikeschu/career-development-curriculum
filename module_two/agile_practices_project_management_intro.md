@@ -1,95 +1,150 @@
-# Agile Practices & Project Management 
+---
+title: Agile Project Management
+layout: page
+---
 
-[Slides for this lesson]()
+## Why
 
-### Objectives
-* Demonstrate an understanding of different Agile and its processes
-* Describe how to use these agile practices with your teams
-* Create a set of agile principles to use at Turing
+To build great software we need to be intentional about the **process**. Whether working solo or in groups, your process is a more significant determiner of your project's success than your technical skill.
 
-**Portfolio Deliverables:**
+In this session we'll take a quick overview of "Waterfall", "Agile", and how to begin managing your projects at Turing.
 
-Paragraph reflection in your portfolio on:
+### Learning Goals
 
-* Details on project management strategies you used in your projects; What went well? What didn’t go well?
+* Students can describe the general concept of the "waterfall" model
+* Students can explain how "agile" differs from waterfall
+* Students can explain the idea of a sprint
+* Students can write a story following a template
 
-### Warm Up Reflection
-Write:
+## Big Picture
 
-* What has made your previous teams successful? What has made them difficult?
-* When working together for the first time, what can you do/have you done to make sure your team is productive?
+### Waterfall Development
 
-### What is Agile?
-Agile is both a series of processes and a philosophy around how to develop software in a more efficient way.
+1. Requirements - the big book of features
+2. Technical Design - "architects"
+3. Implementation - "code monkeys"
+4. Verification - handoff to Q/A
+5. Maintenance - let interns fix the bugs
 
-And to explain it, let's start with what it's not. Agile is a response to the Waterfall method.
+#### Strengths of Waterfall
 
-The [Waterfall model](http://www.agilenutshell.com/agile_vs_waterfall) is a sequential (non-iterative) design process in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of conception, initiation, analysis, design, construction, testing, production/implementation and maintenance. Each phase is treated as a one-off activity and does not react well to change -- *Do you need to adjust something after you've already gone to the next phase? Too late.* 
+* Once requirements are set, you can estimate how long it'll take to build. But...you're wrong.
+* Easy to stagger teams, have one hand off to the next each phase
+* Spend a long time in 1 & 2 billing clients and you don't have to build anything
+* When the project fails you blame the requirements and those people are long gone
 
-Needless to say, waterfall became an ineffective way to run software development. So, seventeen software developers came together and created the Agile Manifesto.
+#### Problems of Waterfall
 
-Read through the 12 principles of the [Agile Manifesto](http://agilemanifesto.org/principles.html). 
+* Writing requirements is impossible
+* Each phase takes months/years -- quickly outdated
+* No chance to "listen to the code"
+* No user feedback until complete
+* No potential for revenue until complete
+* It just doesn't work
 
-* What do you notice about these principles? Do any particularly resonate with you?
-* How might these principles be applied? 
+### Agile
 
-### Exploring Agile Practices
-Based on these principles, processes have been created for teams to embrace agile methodology:
+1. Requirements
+2. Design
+3. Implementation
+4. Verification
+5. Feedback & Approval
+6. Goto 1
 
+#### Problems with Agile
+
+* No real estimate of the total cost
+* Like veganism, crossfit, people won't shut up about it
+* Need to have cross-functional teams
+* A whole lot of conversation ("I've never seen a project fail...")
+
+#### Strengths of Agile
+
+* Responsive to the user / product owner
+* "Discover" the better solutions along the way
+* Can grow organically
+* Easier to stop early
+* Possible to generate revenue along the way
+
+#### Agile in the Real World
+
+* GitHub's story
+* Eric Ries' "The Lean Startup"
+
+## Agile in Baby Steps
+
+There are all kinds of strategies, frameworks, and buzzwords around agile development. But everything revolves around *stories* and *sprints*.
+
+### The Sprint
+
+A sprint is the time box that our work fits into.
+
+* Typical sprint is 2 weeks
+* Starts with planning (aka requirements)
+* It always takes longer than planned
+* Cut scope or extend time?
+* Always cut scope (half, not half-assed)
+* Features are delivered in production
+* Solicit user feedback
+* Ends with review/retrospective
+
+### A Story
+
+"How to Write (Good) Stories" is a 90-minute lesson unto itself. But let's do the express version. A good story:
+
+* Exhibits a tiny chunk of business value
+* Is written in a common format
+* Can be clearly demonstrated/verified
+* Represents half a work day of labor, or less!
+
+#### A Template for Stories
+
+```plain
+As a(n) [user type]
+In order to [extract business value]
+When I [take some action]
+  (and [take some other action])
+Then I [observe an outcome]
+  (and I [observe another outcome])
+```
+
+#### Quick Story Writing Practice
+
+Let's start with some ideas that translate well to single stories.
+
+*Imagine* we've prototyped a small to-do list app. It just allows the user to create to-dos. And it only supports a single user.
+
+Start on your own and draft one story for *each* of the following:
+
+*   Checking the box for a to-do moves it to the completed list
+*   The top of the todo list has a count of the number to todos which updates when I add a new one
+*   Clicking trash on a to-do pops up a confirm/cancel dialog
+
+Then we'll turn to a pair and compare our results.
+
+#### Where You Go From Here
+
+* Start using a project management tool, like Waffle
+* Turn your requirements into stories following this template
+* Prioritize stories and schedule sprints (even just 2-3 days)
+* Deploy to production, maybe solicit feedback from "users"
+* Cutting scope is ok, cutting quality isn't
+
+## Addendum
+
+Want more? Here are some additional resources you can check out:
+
+* The [Waterfall model](http://www.agilenutshell.com/agile_vs_waterfall)
+* The [Agile Manifesto](http://agilemanifesto.org/principles.html)
 * Scrum:
-	* [Video](https://www.scrumalliance.org/why-scrum)
-	* [More Info](https://www.scrum.org/Resources/What-is-Scrum) 	
+  * [Video](https://www.scrumalliance.org/why-scrum)
+  * [More Info](https://www.scrum.org/Resources/What-is-Scrum) 	
 * Tuckman's Stages of Team Development:
-	* [Video](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
-	* [More Info](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
-* [XP](http://www.extremeprogramming.org/)
-
-Within your small groups, discuss your assigned process:
-
-* Summarize how this process works -- what do you see as pros and cons?
-* Think back to the successful teams you wrote about in your warmup questions. How have you already utilized this process? How would this process have helped your team?  
-* How can you utilize this process at Turing?
-
-Groups present on the process that they discussed to the whole group. 
-
-### Project Management Tools
-Think about how to reinforce these processes:
-
+  * [Video](https://www.youtube.com/watch?v=OhSI6oBQmQA&list=PLbu6naAjG_K93h0wjyn1b1EHQl1Q2pH_y)
+  * [More Info](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
+* [XP aka Extreme Programming](http://www.extremeprogramming.org/)
 * [Git Workflow for Teams](https://github.com/turingschool/professional_skills/blob/master/module_two/git_workflow_for_teams.md)
-* [Waffle.io](https://waffle.io/) 
-	* Convert the requirements of the project to stories/issues on Waffle (e.g. Average GPA - average_gpa returns the average GPA for all students)
-	* Let the stories drive development, even copy and paste the story into the tests
-	* Use waffle to track tasks to be completed
-	* Use waffle to keep you focused (i.e. avoid rabbit holes)
-* [Jira](https://www.atlassian.com/software/jira)
-* [CA Technologies](https://www.ca.com/us/why-ca/about-us/acquisitions/rally-is-now-ca-technologies.html?cid=GLOB-EOA-ABUS-ADB-000083-00000151)
-
-### Show What You Know: Creating Successful Teams
-In order for teams to be successful, they need to establish trust. We'll do that today by creating a set of norms for our teams at Turing to follow. 
-
-Go back to the Agile Manifesto to create your own set of principles for how to use agile at Turing. Each group takes on a line from the Manifesto to establish 1-2 principles for how that will look at Turing, and as a class, a set of Turing principles will be established: 
-
-	We are uncovering better ways of developing software by doing it and helping others do it.
-	Through this work we have come to value:
-
-	Individuals and interactions over processes and tools
-	Working software over comprehensive documentation
-	Customer collaboration over contract negotiation
-	Responding to change over following a plan
-
-	That is, while there is value in the items on the right, we value the items on the left more.
-
-### Reflections & Applications
-As your prepare for your next team project DTR, consider:
-
-* Which principle do you value the most? How will you work to exemplify it?
-* How will agile practices help you manage a larger team than you're used to working in?
-* What project management tool will you use to plan out a project that has some ambiguity?
-* Your group should choose someone to be the project manager. What responsibilities will that individual have?
-
-More Resources:
-
+* [Waffle.io](https://waffle.io/)
 * [What is Agile?](https://www.agilealliance.org/agile101/)
 * [10 Key Principles of Agile](http://www.allaboutagile.com/what-is-agile-10-key-principles/)
 * [Agile Programming Best Practices](https://www.versionone.com/agile-101/agile-software-programming-best-practices/)
-
