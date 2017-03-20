@@ -114,7 +114,7 @@ Here is a template for how you can lay out a cover letter:
 
 Check out these examples to see how professional stories can be told through a cover letter:
 
-* [Tommasina Miller Example](
+* [Tommasina Miller Example](https://github.com/turingschool/career-development-curriculum/blob/master/files/Example%20Cover%20Letter.pdf)
 * [Jason Zimdars Example](http://thinkcage.com/svn/)
 
 **Takeaways:**
