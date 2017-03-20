@@ -71,6 +71,7 @@ Think back to the story you told your partner at the beginning of today's sessio
 
 ### Resumes 
 *(add these slides for May inning)*
+
 #### Resume Learning Competencies
 
 - Reorganize your resume to lead with technical skills and experience
@@ -96,7 +97,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 
 #### Content Inclusion
 - Add a __Header:__ Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
-- Add an __About Me__ section with the 1 - 3 sentence intro you created in [What's Your Story](/Your_Story.md)
+- Add an __About Me__ section with the 1 - 3 sentence intro created from your story
 - Add a __Skills__ section: Highlight your dev/technical skills first. Include any transferable skills in this section as well.
 - Add a __Projects__ section. What are you proud of? Show it off!
 	* Be sure to include the following four elements for each project on your resume:
