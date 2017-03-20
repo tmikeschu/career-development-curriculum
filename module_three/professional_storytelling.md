@@ -112,6 +112,8 @@ Here is a template for how you can lay out a cover letter:
 * **2nd paragraph:** Your skills that are applicable to the job post. Also, highlight any additional skills that you think the reader should know about
 * **3rd paragraph:** How you’re going to apply your background and skills to make great experiences for the company's users/customers
 
+Check out these examples to see how professional stories can be told through a cover letter:
+
 * [Tommasina Miller Example](
 * [Jason Zimdars Example](http://thinkcage.com/svn/)
 
@@ -125,8 +127,20 @@ Here is a template for how you can lay out a cover letter:
 * Don’t talk about what you’re hoping to get from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to give the company as an employee, not take from their business — mentorship and culture will happen *anyway*, and not mentioning it will make you stand out
 * Interested in a specific company? Consider how to use their tools or libraries in your projects at Turing. When writing your cover letter to them, mention those in the 2nd paragraph of the cover letter. You’ll look like a great candidate if you’re already familiar with the company's tools/libraries. You should also consider how to interact with the company's employees through Pull Requests or GitHub issues. 
 
+#### Further Reading on Cover Letters
+
+* [Forget the Resume, Kill on the Cover Letter](https://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter)
+* [How to Write a Showstopping Cover Letter as a Techie](https://www.forbes.com/sites/laurencebradford/2017/01/22/how-to-write-a-showstopper-cover-letter-as-a-techie/2/#1b4bd7663179)
+
 ### Turing Portfolio
-Meg will introduce ...
+As you fill out your portfolio, think about how you want to present yourself. 
+
+Here are the must haves:
+* Professional photo
+* Description -- *how can you tell your story here?*
+* 1 project -- in M4, keep in mind that you'll need to include 3 projects
+
+Check out some examples of how others have created their [portfolios](https://www.turing.io/alumni).
 
 ### Work Time
 Spend the next 15-20 minutes working on your portfolio. How do you want to portray yourself? How can you tell your professional story through your portfolio? 
