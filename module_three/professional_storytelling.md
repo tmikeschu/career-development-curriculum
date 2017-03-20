@@ -5,11 +5,17 @@
 
 -Telling your story: 
 	1. What do we mean by professional story?
+		A. Objectives/Opening (7 mins)
+		B. More basics on importance of professional story-telling (5-8 mins)
 	2. crafting professional story -- building more on what they started in M1
 		A. Incorporate strengths
+		B. Activity: 10-15 mins
 	3. practicing telling professional story
 		A. Beyond conversations, here are the places you'll convey your professional stories: resumes, cover letters, portfolio, personal sites, etc. 
-		B. Actual practice -- start building Turing portfolio
+			Resumes (in next next session, this will be 20 mins)
+			Cover letters (5 mins)
+			Intro to Turing portfolio and looking at others' portfolios (10 mins)
+		B. Actual practice -- start building Turing portfolio (20 mins)
 
 ### Objectives
 * 
@@ -19,48 +25,64 @@
 You'll submit this link [here](https://github.com/turingschool/career-development-curriculum/tree/master/deliverable_submissions)
 
 ### Opening
-Pretend that the person next to you is a stranger at a meetup. Turn to them right now and introduce yourself in 3 sentences to describe who you are. 
+Think about a story that you love -- it can be a fictional story, maybe something you remember from your childhood, or an account of a real event. Now turn to the person next to you and give a 2-minute retelling of that story. 
 
 **Takeaways:**
-* What was easy about this introduction?
-* What was difficult about this introduction? 
-* When you were describing yourself, what kinds of words did you use? What kind of developer did you describe yourself as?
 
-The aim of today's session is to help make interactions like this feel more natural and ... 
+* What key details do you remember from your partner's story?
+* How did your partner tell the story? 
+* What made the story interesting?
+
+
+The aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
 
 ### Telling Your Story
-To review, when we talk about telling your story, you should focus on these 3 questions:
+Our lives are made up of stories -- they are how we make sense of our experiences. Stories define who we are. The same is true with your professional story. Telling the story of your professional transition into software development helps others understand your motives, character, and capacity to reach the goals that you've set for yourself. In short, your story makes others believe in you.
+
+Disclaimer: this is not a story that has been made up or embellished in any way. People can tell when you're not being truthful. Rather, this is about how to make a true account of a career trajectory engaging and inspiring. 
+
+To review, these 3 questions will get you started on your story: 
 
 * Who are you?
-* How did you get here?
-* What's next?
+* Why are you here? (Consider both your background but also what drives you to be in this field)
+* What's next? 
 
+Now, let's dive into your story and expand on these questions by tying in your Turing experience. 
 
+#### Activity:**
 
+Pixar story artist [Emma Coats described the 22 rules](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar) that drive storytelling, including:
 
-Strengths reflection piece...
+	Pull apart the stories you like. What you like in them is a part of you; 
+	you’ve got to recognize it before you can use it.
 
-Using your Flower Exercise that you've been working on...
+Think back to the story you told your partner at the beginning of today's session. How can you adapt that same feeling of storytelling into your own story? 
 
-### Your Turn
+**Write:** Reflect on your experience at Turing thus far and add to your story. Think about how others might root for you as a character and what's at stake for you. Consider:
 
+* Your Flower Exercise: what influence does your background have on your story? What 
+* Your Strengths
+	* If you took StrengthsFinder, reflect on how developing your strengths at Turing has influenced your story
+* How have you grown at Turing? What obstacles have you overcome? 
 
+**Pair & Share:** Pair up with someone else and share your story. 
 
-## Resumes
-### Resume Learning Competencies
+### Resumes 
+*(add these slides for May inning)*
+#### Resume Learning Competencies
 
 - Reorganize your resume to lead with technical skills and experience
 - Analyze what experiences are most useful in demonstrating transferable and applicable skills for an entry level tech role
 - Produce a resume with clear and concise language aligned with current tech industry standards
 
-### Research
+#### Research
 Take a look at a few examples before getting started:
 
  - [Example 1](https://www.turing.io/sites/default/files/resumes/josh_cass.pdf)
  - [Example 2](https://www.turing.io/sites/default/files/resumes/rose_a_kohn.pdf)
  - Don't be afraid to think outside of the box...Check out this [epic resume.](http://www.rleonardi.com/interactive-resume/)
 
-### Layouts
+#### Layouts
 You can choose to set up a traditional resume use a template like this [traditional resume](http://visualcv.com/www/google-docs-resume-templates/), but you may want to personalize the style with a layout. Check out these sites for building a resume:
 
 * [Creddle](http://creddle.io/)
@@ -70,7 +92,7 @@ You can choose to set up a traditional resume use a template like this [traditio
 * [Kick Resume](https://www.kickresume.com/)
 Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-resume)
 
-### Content Inclusion
+#### Content Inclusion
 - Add a __Header:__ Name, phone number, email, GitHub, LinkedIn, personal site (These should all be linked text, not the long URL strings)
 - Add an __About Me__ section with the 1 - 3 sentence intro you created in [What's Your Story](/Your_Story.md)
 - Add a __Skills__ section: Highlight your dev/technical skills first. Include any transferable skills in this section as well.
@@ -97,15 +119,14 @@ As you update your resume, check on what updates you need to make to your Linked
 ### Cover Letters
 Cover letters are a perfect way to tell your story when you're applying for a job
 
-
-[Jason Zimdars Example](http://thinkcage.com/svn/)
+* [Tommasina Miller Example](
+* [Jason Zimdars Example](http://thinkcage.com/svn/)
 
 ### Turing Portfolio
-
-
+Meg will introduce ...
 
 ### Work Time
-
+Spend the next 15-20 minutes working on your portfolio. How do you want to portray yourself? How can you tell your professional story through your portfolio? 
 
 ### Closing
-Find another person in the room to introduce yourself in a few sentences using the new story you've been developing. 
+Find another person in the room to introduce yourself in a few sentences using the new story you've been developing. The more you practice telling your story, the better you'll get. 
