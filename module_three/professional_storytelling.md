@@ -3,20 +3,6 @@
 
 [Slides for this session](https://docs.google.com/presentation/d/1OZ8WCYsiTBBHEPVsFrEXM0VIJtZViLJr_Tui75zE1H8/edit?usp=sharing)
 
--Telling your story: 
-	1. What do we mean by professional story?
-		A. Objectives/Opening (7 mins)
-		B. More basics on importance of professional story-telling (5-8 mins)
-	2. crafting professional story -- building more on what they started in M1
-		A. Incorporate strengths
-		B. Activity: 10-15 mins
-	3. practicing telling professional story
-		A. Beyond conversations, here are the places you'll convey your professional stories: resumes, cover letters, portfolio, personal sites, etc. 
-			Resumes (in next next session, this will be 20 mins)
-			Cover letters (5 mins)
-			Intro to Turing portfolio and looking at others' portfolios (10 mins)
-		B. Actual practice -- start building Turing portfolio (20 mins)
-
 ### Objectives
 * 
 
@@ -33,7 +19,6 @@ Think about a story that you love -- it can be a fictional story, maybe somethin
 * How did your partner tell the story? 
 * What made the story interesting?
 
-
 The aim of today's session is to expand on your professional story and turn it into a compelling narrative. 
 
 ### Telling Your Story
@@ -47,9 +32,9 @@ To review, these 3 questions will get you started on your story:
 * Why are you here? (Consider both your background but also what drives you to be in this field)
 * What's next? 
 
-Now, let's dive into your story and expand on these questions by tying in your Turing experience. 
+Now, let's dive into your story and expand on these questions by tying in elements of your Turing experience. 
 
-#### Activity:**
+#### Activity:
 
 Pixar story artist [Emma Coats described the 22 rules](http://storyshots.tumblr.com/post/25032057278/22-storybasics-ive-picked-up-in-my-time-at-pixar) that drive storytelling, including:
 
@@ -60,10 +45,11 @@ Think back to the story you told your partner at the beginning of today's sessio
 
 **Write:** Reflect on your experience at Turing thus far and add to your story. Think about how others might root for you as a character and what's at stake for you. Consider:
 
-* Your Flower Exercise: what influence does your background have on your story? What 
-* Your Strengths
+* Your Flower Exercise: what influence does your background have on your story? What makes you unique?
+* Your Strengths: what makes you the "hero" of this story?
 	* If you took StrengthsFinder, reflect on how developing your strengths at Turing has influenced your story
 * How have you grown at Turing? What obstacles have you overcome? 
+* What does your third act look like? How does transitioning to this career bring some closure to this narrative arc?
 
 **Pair & Share:** Pair up with someone else and share your story. 
 
@@ -117,10 +103,27 @@ Find even more sites [here](https://www.producthunt.com/e/create-a-beautiful-res
 As you update your resume, check on what updates you need to make to your LinkedIn -- update this profile as often as necessary to ensure it reflects exactly what you want it to portray.
 
 ### Cover Letters
-Cover letters are a perfect way to tell your story when you're applying for a job
+Cover letters are a perfect way to tell your story when you're applying for a job. 
+
+#### Layout
+Here is a template for how you can lay out a cover letter:
+
+* **1st paragraph:** Your journey into tech and how this connects to why you care about the industry of the company you're contacting
+* **2nd paragraph:** Your skills that are applicable to the job post. Also, highlight any additional skills that you think the reader should know about
+* **3rd paragraph:** How you’re going to apply your background and skills to make great experiences for the company's users/customers
 
 * [Tommasina Miller Example](
 * [Jason Zimdars Example](http://thinkcage.com/svn/)
+
+**Takeaways:**
+
+* What stood out to you about these examples?
+* What story are they telling?
+
+**Other Key Points for Cover Letters:**
+
+* Don’t talk about what you’re hoping to get from the company (i.e., mentorship, culture, etc.). The letter should be all about what you’re going to give the company as an employee, not take from their business — mentorship and culture will happen *anyway*, and not mentioning it will make you stand out
+* Interested in a specific company? Consider how to use their tools or libraries in your projects at Turing. When writing your cover letter to them, mention those in the 2nd paragraph of the cover letter. You’ll look like a great candidate if you’re already familiar with the company's tools/libraries. You should also consider how to interact with the company's employees through Pull Requests or GitHub issues. 
 
 ### Turing Portfolio
 Meg will introduce ...
