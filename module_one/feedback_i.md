@@ -1,4 +1,20 @@
 # Feedback I: Building an Understanding of Giving & Receiving Feedback
+# Feedback I:
+
+### Objectives
+
+### Deliverable
+
+#### Opening
+Why are we talking about this? 
+Benefits of receiving feedback well
+Creating “pull”
+Personal reflection first: Think of a couple of pieces of feedback in the recent past that you have found tough to receive. Can you recall any physiological reaction that you had to the feedback? What were the most immediate thoughts to go through your mind as you received this feedback? How would you describe your experience in relation to the three triggers (truth, relationship, identity) discussed in this chapter? Which of the three triggers (truth, relationship, or identity) do you find most befuddling and why? What has helped you manage these triggers
+Then share with partner? Or whole group?
+Recap the 3 triggers
+
+
+
 
 [Slides for this lesson](https://docs.google.com/presentation/d/1f0cDlu4u5ZnM0WjpCpPfBcCJ9n3qRknqYjaqh8DdJVs/edit?usp=sharing)
 
