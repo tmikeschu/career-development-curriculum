@@ -22,7 +22,7 @@ Every dialogue includes *intent* and *impact*. The intent (the purpose behind th
 | ------ | ---------------- | ---------------- |
 | Be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
 
-#### Whole group
+#### Whole Group Discussion
 What kind of feedback is the giver providing here? Reminder - the 3 types of feedback are:
 
 * Appreciation
@@ -47,7 +47,7 @@ Create groups of 3-4 students to discuss the feedback and its intent and impact 
 | ------ | ---------------- | ---------------- |
 | Your opinions come across... | Consider other people's points of view | Tone down your enthusiasm. Be bland and passive |
 | ------ | ---------------- | ---------------- |
-| SOME OTHER EXAMPLE HERE...
+| You received a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work.
 
 **Discussion Questions:**
 For each piece of feedback, answer these questions:
@@ -56,15 +56,16 @@ For each piece of feedback, answer these questions:
 * How might you reframe this feedback considering the impact?
 * We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
 
-### Communicating Feedback (20 mins)
-Ask for the type of feedback you want
+### Communicating Feedback 
+Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. 
 
-Asking for the type of feedback you need to hear/prime yourself
-March inning -- some of this is review
+Review how to conduct a feedback conversation:
 Open the conversation by getting aligned
 4 skills
 Discuss active listening -- TED talk?
 Close by committing to action
+
+
 How to have this conversation as a group retro vs. 1-on-1
 
 
