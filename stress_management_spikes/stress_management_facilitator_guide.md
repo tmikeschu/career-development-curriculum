@@ -15,6 +15,14 @@
 | xxxxx | xxx  |  xxxx |
 | xxxxx | xxxx |  xxxx |
 
+Session 1:
+-Reflect in journal for 5 minutes on current framing of stress and how it's currently being dealt with (5 minutes) 
+-Watch TED talk on stress and then discuss in small groups (25 mins total)
+-Focus on gratitude...
+
+Session 2:
+-
+
 
 ### Grouping and/or activities
   
