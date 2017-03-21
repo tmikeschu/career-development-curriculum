@@ -16,4 +16,4 @@ These sessions are designed to give students strategies for managing stress in a
   
   
 ## Facilitator's Guide 
-For anyone facilitating a Stress Management Spike, check out these guidelines...
+For anyone facilitating a Stress Management Spike, use these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/stress_management_facilitator_guide.md) to plan a Spike session
