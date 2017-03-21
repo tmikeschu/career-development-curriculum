@@ -10,14 +10,55 @@
 Have a feedback conversation and document it using these guidelines....
 
 ### Opening
-Recap principles of giving good feedback, triggers and things to be aware of
-3 mins: Why is working on our giving and receiving feedback skills so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
-Solicit answers first from students
-Then show them the reasons and discuss objectives and deliverable
+Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
 
-start with intent vs. impact and then show different examples of how feedback can go wrong through roleplaying -- I demonstrate with student volunteers (don’t do all the terms but more about demonstrating the meat of what to be aware of) -- (15 mins)
+* Whole group discussion
+* Discuss objectives and deliverable
+
+### Intent vs. Impact
+Every dialogue includes *intent* and *impact*. The intent (the purpose behind the giver's message) may not always align with its impact (how the receiver is affected by the message) in conversation. 
+
+| Feedback | Giver's Intent | Giver's Impact |
+| ------ | ---------------- | ---------------- |
+| Be more confident | When you don't know something, be confident enough to admit it. | You should give others the impression that you have all the answers |
+
+#### Whole group
+What kind of feedback is the giver providing here? Reminder - the 3 types of feedback are:
+
+* Appreciation
+* Coaching
+* Evaluation
+
+* What other impacts might this feedback have?
+* How might you reframe the feedback thinking about the impact that it might have?
+
+Blind spots are always present as a gap between the self we think we present and the self that others see. Even with good intentions, your thoughts and feelings can affect the impact of your communication through behaviors that you don't always notice. These can include:
+
+* Your facial expressions
+* Your tone of voice
+* Your behavior patterns
+
+How could blind spots potentially affect the intent of a feedback giver's words?
+
+#### Small Group Discussions 
+Create groups of 3-4 students to discuss the feedback and its intent and impact below.  
+
+| Feedback | Giver's Intent | Giver's Impact |
+| ------ | ---------------- | ---------------- |
+| Your opinions come across... | Consider other people's points of view | Tone down your enthusiasm. Be bland and passive |
+| ------ | ---------------- | ---------------- |
+| SOME OTHER EXAMPLE HERE...
+
+**Discussion Questions:**
+For each piece of feedback, answer these questions:
+
+* What kind of feedback is this?
+* How might you reframe this feedback considering the impact?
+* We're thinking about this feedback knowing what the impact is already. How can you be more aware of impact while phrasing your feedback?
 
 ### Communicating Feedback (20 mins)
+Ask for the type of feedback you want
+
 Asking for the type of feedback you need to hear/prime yourself
 March inning -- some of this is review
 Open the conversation by getting aligned
@@ -28,6 +69,8 @@ How to have this conversation as a group retro vs. 1-on-1
 
 
 ### Putting it into Practice: Having the Conversations
+Now is the time to prepare for giving feedback to your project partners in conversations. 
+
 
 Prep for conversations (6 mins)
 * BE: Bike Share (multiple partners)
