@@ -46,7 +46,7 @@ Create groups of 3-4 students to discuss the feedback and its intent and impact 
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| You're too opinionated at times | Consider other people's points of view | Tone down your enthusiasm. Be bland and passive |
+| You're too opinionated sometimes | Consider other people's points of view | Tone down your enthusiasm. Be bland and passive |
 | You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
 
 **Discussion Questions:**
