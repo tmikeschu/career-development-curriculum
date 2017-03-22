@@ -77,9 +77,7 @@ Review how to conduct a feedback conversation:
 
 What will make this conversation different with a project team vs. having this conversation with just one partner?
 
-An important skill from the body part is listening. What does it mean to actively listen?
-
-When you're having a conversation with someone, do you ever find yourself thinking about what you'll say in response to the person talking? 
+An important skill from the body part is listening. What does it mean to actively listen? What can make it difficult to really listen to someone?
 
 #### Read, Pair, Share
 Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
