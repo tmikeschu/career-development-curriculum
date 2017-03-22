@@ -22,24 +22,11 @@ Students will summarize and reflect on either practice or real interview experie
 | Timing        | Facilitator Talking Points           | Participant Actions  |
 | ------------- | ------------- | ----- |
 | List the timing of each section      |  Describe facilitator talking points | What should participants be doing during this section? |
-| 10 minutes| **Hook**: Ask for examples of technical interviews that students have participated in; 2-3 examples  |  Students should be sharing information about  |
-| 5 minutes | **Opening:** Description of technical interview approaches:
-1. Do something similar to their product
-2. Submit a thing according to certain instructions, then pair with someone during the interview on the submission to add additional features; building on code that you wrote (Thoughtworks)
-3. Average process is logic questions/puzzles/do something basic |  xxxx |
-|  xx | xx  | xx | 
+| 10 minutes| **Hook**: Ask for examples of technical interviews that students have participated in; 2-3 examples from students; after students have shared and offered their insights, ask them what each example had in common? Solicit a few answers and then provide: They were asking for a problem-solving process. Other than that, they may not have had much in common  |  Students share information about technical interviews they've participated in; if applicable, students may try to suggest what they would have done in a certain situation, students are responding to facilitator's questions |
+| 5 minutes | **Opening:** Description of technical interview approaches: 1. Do something similar to their product
+2. Submit an app according to certain instructions, and then pair with someone during the interview on the submission to add additional features; building on code that you wrote (Thoughtworks does this) 3. Oftentimes, the process is logic questions, puzzles, or to demonstrate a basic skill |  Students are taking notes, asking questions |
+| 5 minutes | xx  | xx | 
 
-
-
-INM (30 mins)
-Hook
-Asked for examples of tech interviews that students have gone on -- what’s common? Nothing other than they asked you to solve something; it wasn’t related to their company in any way; they just made it up
-
-Opening
-Description of technical interview approaches:
-1. Do something similar to their product
-2. Submit a thing according to certain instructions, then pair with someone during the interview on the submission to add additional features; building on code that you wrote (Thoughtworks)
-3. Average process is logic questions/puzzles/do something basic
 
 What do the hiring managers ultimately care about? Whole group: thought process; don’t care about your knowledge
 
