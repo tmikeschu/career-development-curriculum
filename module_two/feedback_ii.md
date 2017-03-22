@@ -64,12 +64,12 @@ Review how to conduct a feedback conversation:
    * What kind of feedback are we discussing?
    * What does the giver want to give me?
    * Is the feedback negotiable or final? A suggestion or a command?
-* Body: Two-way exchange of information
+* **Body:** Two-way exchange of information
    * Listening
    * Asserting
    * Managing conversation process
    * Problem-solving
-* Close by committing to action
+* **Close** by committing to action
 
 We'll highlight one of the 4 skills in the body, which is listening. What does it mean to actively listening?
 
