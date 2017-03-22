@@ -78,7 +78,7 @@ An important skill from the body part is listening. What does it mean to activel
 
 When you're having a conversation with someone, do you ever find yourself thinking about what you'll say in response to the person talking? 
 
-#### Write, Pair, Share
+#### Read, Pair, Share
 Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
 
 Then pair up with someone else to have a short conversation. Describe to your partner a recent concept that you've learned at Turing and what that experience was like for you. Your partner will practice active listening and repeat back what they've heard from you.
