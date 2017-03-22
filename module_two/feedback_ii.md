@@ -8,7 +8,7 @@
 
 ### Deliverable
 
-Have a feedback conversation and document it using these guidelines....
+Have a feedback conversation and document it using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
 ### Opening
 Why is working on our skills for giving and receiving feedback so important? Why have we chosen this as a skill for you to work on in your career development at Turing?
@@ -46,7 +46,7 @@ Create groups of 3-4 students to discuss the feedback and its intent and impact 
 
 | Feedback | Giver's Intent | Giver's Impact |
 | ------ | ---------------- | ---------------- |
-| You're too opinionated sometimes | Consider other people's points of view | Tone down your enthusiasm. Be bland and passive |
+| Don't be so quick to make a decision without talking to others | Consider other people's points of view when making a decision | Don't think for yourself. Tone down your enthusiasm. Be bland and passive |
 | You're making a lot of strides with TDD. You got a 4 on testing again this project | Few people ever get a 5, and you got a 4 twice in a row. This is impressive! | I worked even harder than last project, and I still got a 4. No one is noticing my hard work. |
 
 **Discussion Questions:**
@@ -72,30 +72,30 @@ Review how to conduct a feedback conversation:
    * Problem-solving
 * **Close** by committing to action
 
-We'll highlight one of the 4 skills in the body, which is listening. What does it mean to actively listening?
+What will make this conversation different with a project team vs. having this conversation with just one partner?
 
-When you're having a conversation with someone 
+An important skill from the body part is listening. What does it mean to actively listen?
 
-#### Activity
-Read through these 5 steps for improving listening skills
+When you're having a conversation with someone, do you ever find yourself thinking about what you'll say in response to the person talking? 
 
+#### Write, Pair, Share
+Read through these [5 steps for improving listening skills](https://www.fastcompany.com/3036026/5-ways-to-improve-your-listening-skills)
 
-How to have this conversation as a group retro vs. 1-on-1
+Then pair up with someone else to have a short conversation. Describe to your partner a recent concept that you've learned at Turing and what that experience was like for you. Your partner will practice active listening and repeat back what they've heard from you.
 
+**Takeaways:** 
+* What went well for you in this practice?
+* What will you need to be aware of as you continue working on your listening skills?
 
 ### Putting it into Practice: Having the Conversations
-Now is the time to prepare for giving feedback to your project partners in conversations. 
+Now is the time to prepare for giving feedback to your project partners in conversations:
 
-
-Prep for conversations (6 mins)
 * BE: Bike Share (multiple partners)
 * FE: Game Time (1 partner)
-Have the conversations (10 mins)
-Discuss what feedback they’re looking for and the expectations for how they want to give and receive feedback
-Feedback on the projects so far and how they expect to finish the project
-Be prepared to have a full retro conversation
+* Write down any key points, think about how you can clearly explain your intent, and take into consideration what kind of feedback you need from the other 
+* This is one conversation on how the project is going so far and how you want to finish it, but consider any feedback that will need to be discussed after the project is over
 
-### Next steps (5 mins)
+### Next steps
 * As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro. 
 
 * Reflect in your deliverable using the [template]( on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
