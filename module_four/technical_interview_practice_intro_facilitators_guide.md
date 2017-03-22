@@ -17,7 +17,7 @@ Students will summarize and reflect on either practice or real interview experie
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| Computer hooked up to monitor at front of classroom. Use microphone if in Clarke Hall | Pick out a challenge from this [repo](https://github.com/turingschool/challenges) that students haven't worked on before| [Slides to use] |
+| Computer hooked up to monitor at front of classroom. Use microphone if in Clarke Hall | Pick out a challenge from this [repo](https://github.com/turingschool/challenges) that students haven't worked on before | [Slides to use] |
 
 ### Session Outline
 
