@@ -32,13 +32,11 @@ Here is a detailed breakdown for this session:
 | ------------- | ------------- | ----- |
 | List the timing of each section      |  Describe facilitator talking points | What should participants be doing during this section? |
 | 10 minutes | **Hook**: Ask for examples of technical interviews that students have participated in; 2-3 examples from students; after students have shared and offered their insights, ask them what each example had in common? Solicit a few answers and then provide: They were asking for a problem-solving process. Other than that, they may not have had much in common      | Students share information about technical interviews they've participated in; if applicable, students may try to suggest what they would have done in a certain situation, students are responding to facilitator's questions |
-| ---------- | ------------ | ----- |
 | 5 minutes | **Opening:** Description of technical interview approaches: 1. Complete something similar to their product 2. Submit an app according to certain instructions, and then pair with someone during the interview on the submission to add additional features; building on code that you wrote (Thoughtworks does this) 3. Oftentimes, the process is logic questions, puzzles, or demonstrating a basic skill      | Students take notes, ask questions |
-| ------------- | ------------- | ----- |
+
+
 | 10 minutes | More information       | Students take notes, ask questions | 
-| ------------- | ------------- | ----- |
 | 5 minutes | More information      | Students take notes, ask questions |
-| ------------- | ------------- | ----- |
 | 30 minutes | Introduce a challenge that you've picked out for students to work on. Keep track of time, write it on board, and give verbal updates of time remaining      | Students work on challenge |
 | 30 minutes | Live coding of the challenge. Have some parts of it already coded to continue working on or refactor. Ask students specific CFUs around the challenge: why you are doing something a certain way, etc. Ask for other ideas of implementation      | Students follow along and provide answers/ideas |
 
