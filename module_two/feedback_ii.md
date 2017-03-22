@@ -99,7 +99,7 @@ Now is the time to prepare for giving feedback to your project partners in conve
 ### Next steps
 * As your project wraps, make sure to have any continued or follow-up conversations with your project partners, including a full retro. 
 
-* Reflect in your deliverable using the [template]( on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
+* Reflect in your deliverable using the [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md) on at least 1 feedback conversation *(but you should be having conversations each time you work with someone else)*
 
 * Complete a personal reflection:
     * What is your biggest challenge when giving feedback to someone else? What will you need to be aware of to overcome that challenge? 
