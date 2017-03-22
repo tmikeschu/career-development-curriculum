@@ -3,7 +3,8 @@ These sessions are designed to give students strategies for managing stress in a
 
 * Identify sources of stress
 * Build an understanding of multiple strategies available to manage stress
-* Apply stress management strategies to any situation
+* Understanding of how to apply stress management strategies to any situation
+* Leave the session with at least one strategy to use for stress management at Turing
 
 ## Individual Use Strategies
 * [Shifting Emotions from Negative to Positive](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/shifting_negative_emotions.md)
