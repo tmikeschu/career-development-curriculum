@@ -50,9 +50,9 @@ You'll often find similar experiences happen in pair programming. This session w
 	Potential pitfall: Technical issues when pairing remotely are common, so test your tools ahead of time!
 	
 ## Defining the Relationship (DTR)
-DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) to guide the conversation.
+DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md) to guide the conversation.
 
-Establishing a relationship with your mentor should also include a DTR. Here’s a cheatsheet for planning that conversation.
+Establishing a relationship with your mentor should also include a DTR. Here’s a [cheatsheet](https://docs.google.com/document/d/1Q35fM3coYjnms9rkVem3FHVk44kW6qHp_-t99PBbczI/edit?usp=sharing) for planning that conversation.
 
 Take time to define your expectations:
 
@@ -66,16 +66,7 @@ Take time to define your expectations:
 * What is your schedule like? What work-life boundaries do you need to communicate to your partner?
 * Come up with additional questions that you want to ask your partner
 
-
-### Holding Each Other Accountable
-* Memo: Documenting your DTR in a memo will provide you with a record of what you discussed to reference as the project goes on. Make it into a gist so that everyone from the group has it.
-* Stand Up: Start each work session discussing what you are each working on that day and what goals you hope to accomplish at the end of the work session.
-* Retro: Hold regular retros to discuss what’s going well, what’s not going well, and what you should change as a group to make your project and team more successful.
-	* Check out this example of [retro notes](https://docs.google.com/document/d/1qX18S_Ok2IQA5kRB2vdblF61XbO3nX-oTWFkfgA0L8k/edit?usp=sharing)
-* Re-DTR: In longer projects, review and readjust expectations midway through the project.
-
-
-### Compromising with each others’ expectations
+### Compromising with Each Others’ Expectations
 * Remember lessons from Improv:
 	* “No” means that you’re pushing your own agenda
 	* “Yes” means that you’re expecting your partner to do all the work of defining expectations (even if you don’t agree with these expectations)
@@ -88,6 +79,13 @@ Take time to define your expectations:
 	* If you feel like you have stronger technical skills, teaching your partner will help you solidify these skills. Alternatively, what can you learn from your partner?
 	* Beware of the "Developer's Ego" -- learning to ask questions is an important skill for the workplace.
 * Bottom line: Paired project code is owned by the entire team. There is no room (and no time, considering your tight deadlines) for egos -- you are here to support each other.
+
+### Holding Each Other Accountable
+* Memo: Documenting your DTR in a memo will provide you with a record of what you discussed to reference as the project goes on. Make it into a gist so that everyone from the group has it.
+* Stand Up: Start each work session discussing what you are each working on that day and what goals you hope to accomplish at the end of the work session.
+* Retro: Hold regular retros to discuss what’s going well, what’s not going well, and what you should change as a group to make your project and team more successful.
+	* Check out this example of [retro notes](https://docs.google.com/document/d/1qX18S_Ok2IQA5kRB2vdblF61XbO3nX-oTWFkfgA0L8k/edit?usp=sharing)
+* Re-DTR: In longer projects, review and readjust expectations midway through the project.
 
 ### Addressing Broken Expectations
 When a partner is not following through on expectations, the first step is to work on yourself:
