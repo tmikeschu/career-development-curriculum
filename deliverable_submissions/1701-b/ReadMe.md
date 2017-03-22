@@ -5,7 +5,7 @@ Students should update their individual file with links to specific deliverables
 
 * Link to reflection on agile practices/project management used in projects (What project management strategies did you use in your projects this module? What went well? What would you do differently next time?):
 
-* Link to reflection on in-person feedback conversation -- *template forthcoming*
+* Link to reflection on in-person feedback conversation using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_conversation_reflection_guidelines.md)
 
 * Link to feedback implementation reflection & application of strengths to teams -- *template forthcoming*
 
