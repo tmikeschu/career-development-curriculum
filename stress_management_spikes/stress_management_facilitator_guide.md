@@ -5,7 +5,7 @@
 
 * Students are able to identify sources of stress
 * Students are able to build an understanding of multiple strategies available to manage stress
-* Students are able to apply stress management strategies to any situation
+* Students have an understanding of how to apply stress management strategies to any situation
 * Students leave session with at least one strategy to use for stress management at Turing
 
 ### Session Structure
