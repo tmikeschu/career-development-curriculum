@@ -59,10 +59,19 @@ For each piece of feedback, answer these questions:
 Ask for the type of feedback you want - and prime yourself for triggers that could arise in response to it. 
 
 Review how to conduct a feedback conversation:
-Open the conversation by getting aligned
-4 skills
-Discuss active listening -- TED talk?
-Close by committing to action
+* **Open** the conversation by getting aligned
+   * Define the purpose of the conversation
+   * What kind of feedback are we discussing?
+   * What does the giver want to give me?
+   * Is the feedback negotiable or final? A suggestion or a command?
+* Body: Two-way exchange of information
+   * Listening
+   * Asserting
+   * Managing conversation process
+   * Problem-solving
+* Close by committing to action
+
+We'll highlight one of the 4 skills in the body, which is listening. What does active listening mean?
 
 
 How to have this conversation as a group retro vs. 1-on-1
