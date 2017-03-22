@@ -4,7 +4,10 @@
 [Slides for this session](https://docs.google.com/presentation/d/1iLKN-7mCeQCaYulVT_LOsC4ctKjVgG63fNBRijtf33E/edit?usp=sharing)
 
 ### Objectives
-* 
+* Understand how intent and impact affect dialogue
+* Discover how blind spots affect your abilities to give and receive feedback
+* Practice active listening and reframing feedback
+* Deliver feedback in a constructive conversation
 
 ### Deliverable
 
