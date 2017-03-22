@@ -71,7 +71,12 @@ Review how to conduct a feedback conversation:
    * Problem-solving
 * Close by committing to action
 
-We'll highlight one of the 4 skills in the body, which is listening. What does active listening mean?
+We'll highlight one of the 4 skills in the body, which is listening. What does it mean to actively listening?
+
+When you're having a conversation with someone 
+
+#### Activity
+Read through these 5 steps for improving listening skills
 
 
 How to have this conversation as a group retro vs. 1-on-1
