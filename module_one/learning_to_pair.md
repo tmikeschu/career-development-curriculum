@@ -14,7 +14,7 @@ Refer to the [Learning to Pair slides](https://docs.google.com/presentation/d/1_
 
 ## Deliverable:
 
-* Include a DTR memo in your portfolio for at least one project
+* Complete a DTR memo for at least one project using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/dtr_guidelines_memo.md)
 
 ## Opening
 In the past when you've worked in teams, what was successful about them? What was unsuccessful?
