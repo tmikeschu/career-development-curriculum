@@ -18,7 +18,7 @@ If you have to sum up how you feel about stress, which statement would be more a
 
   A. Stress is harmful and should be avoided, reduced, and managed. 
   
-  B. Stress is helpful and should be accepted, utilized, and empbraced.
+  B. Stress is helpful and should be accepted, utilized, and embraced.
 
 Which statement do you identify with and how do you currently deal with your stress? What strategies are you already using?
 
