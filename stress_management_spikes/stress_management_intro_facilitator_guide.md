@@ -23,8 +23,8 @@ Listed below are options for 2 possible introductory sessions:
 
 #### Option One: 1 hour session
 
-| Timing        | Facilitator Talking Points           | Participant Actions  |
-| ------------- | ------------- | ------------------------|
+| Timing        | Facilitator Talking Points        | Participant Actions  |
+| ------------- | ----------- | ------------------------|
 | 5 minutes | Introduce objectives and first writing prompt on the slide. Have students reflect in their journals | Students answer question in journal |
 | 15 minutes | Show [TED Talk](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en) on your screen. Ensure that the sound works. Introduction: *We'll start this session today by watching a TED Talk by health psychologist Kelly McGonigal called "How to Make Stress Your Friend"* |  Students watch TED Talk |
 | 5 minutes | Introduce: *Today we'll discuss strategies for creating a more mindful approach to dealing with stress. The first step is to identify stress. Take 5 minutes to reflect on anything that may have caused you stress this week by writing about what the root cause might be in your journal.* | Students write in journals |
