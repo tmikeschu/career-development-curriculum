@@ -2,6 +2,8 @@
 
 ## Option One: 1 hour
 
+[Slides for this session](https://docs.google.com/presentation/d/1Fl4QndmeBU1qunfZ7VowMiBGTAQylYtQxTrrOiUuz5k/edit?usp=sharing)
+
 ### Objectives
 
 * Students are able to identify sources of stress
