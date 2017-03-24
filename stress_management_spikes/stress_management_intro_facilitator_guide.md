@@ -23,6 +23,8 @@ Listed below are options for 2 possible introductory sessions:
 
 #### Option One: 1 hour session
 
+[Student Markdown](https://github.com/turingschool/career-development-curriculum/blob/master/stress_management_spikes/intro_stress_management_session.md)
+
 | Timing        | Facilitator Talking Points        | Participant Actions  |
 | ------------- | ----------- | ------------------------|
 | 5 minutes | Introduce objectives and first writing prompt on the slide. Have students reflect in their journals | Students answer question in journal |
