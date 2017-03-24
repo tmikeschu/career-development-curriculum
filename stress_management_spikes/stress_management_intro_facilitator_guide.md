@@ -17,7 +17,7 @@ Listed below are options for 2 possible introductory sessions:
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. Your laptop and monitors are needed. Check that sound works on the monitors beforehand. | Add Link Here |
+| How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. Your laptop and monitors are needed. Check that sound works on the monitors beforehand. | [Slides](https://docs.google.com/presentation/d/1Fl4QndmeBU1qunfZ7VowMiBGTAQylYtQxTrrOiUuz5k/edit?usp=sharing) |
 
 ### Session Structure
 
