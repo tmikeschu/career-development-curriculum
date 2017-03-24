@@ -1,5 +1,10 @@
-# Stress Management Spike
+# Stress Management Spike: Introductory Session
 ## Facilitator Guide
+
+Listed below are options for 2 possible introductory sessions:
+
+* 1 hour-session
+* 2 hour-session
 
 ### Session Outcomes
 
@@ -8,48 +13,46 @@
 * Students have an understanding of how to apply stress management strategies to any situation
 * Students leave session with at least one strategy to use for stress management at Turing
 
-### Session Structure
-| Timing        | Facilitator Talking Points           | Participant Actions  |
-| ------------- | ------------- | ----- |
-| List the timing of each section      |  Describe facilitator talking points | What should participants be doing during this section? |
-| xxxxx | xxx  |  xxxx |
-| xxxxx | xxxx |  xxxx |
-
-Session 1:
--Reflect in journal for 5 minutes on current framing of stress and how it's currently being dealt with (5 minutes) 
--Watch TED talk on stress and then discuss in small groups (25 mins total) - this could be an additional resource
--Focus on gratitude...
--Intentional listening -- share for 3 minutes uninterrupted and their partner says back to them (2-3 mins) what they heard was stressing them out, also any questions/wonderings they have; then switch
-  Purpose: reflect on what's really happening in this situation; frame it as pair coaching
--Open dialogue (put up what they most want to talk about) put up on the board/display what they want to work on or situations that are particularly stressful that they want to address; then self-select into groups around that
-  Examples: pairing (navigating people and code), evals, assessment with instructor, homework/workload/time management, making time for family/friends/health/personal care, 
-  Goal as group: Work as a group to identify a strategy to use for combatting this stress and discuss pros/cons of that strategy
-  Then come back as a whole group to share out big picture ideas
--Think about times in other parts of life when they've managed stress before; what worked well? How can you adapt that to this environment? This environment can make small things turn into bigger stresses; there are high stakes here
-  -Spending time identifying the stresses of this environment in particular -- framing of what's different about being here vs. other areas of your life
--Create different options -- stations: 1. reading/reflecting individually 2. group discussions 3. other videos, etc. 
-  
-1. Framing - group brainstorm
-2. Reflection 
-
-Time for planning: End with a written reflection and create concrete goals for next week -- what will you do differently? How will you stay accountable? Who from this session can be your buddy?
-Examples: join wellness challenge, join productivity lunch, share a goal with your project partner and allow them to help you manage it, share with family, 
-
-Session 2:
--
-
-Challenge:
-Students not getting specific enough about what's stressing them out -- made it harder to dig into when they're at their most stressed; also not identifying how they come out of the stress
-
-### Grouping and/or activities
-  
-  *What should the group size be for discussions? (Recommend 3-4)
-  
-  *How should groups be set up? (Recommend some meaningful grouping)
-
 ### Logistics
 
 | Set Up | Materials Needed | PPT Link (if PPT)|
 | ------ | ---------------- | ---------------- |
-| How should the room be set up? What AV is needed? | List the materials for the session | Add Link Here |
+| How should the room be set up? What AV is needed? | Students should have journals, something to write with, and their laptops. Your laptop and monitors are needed. Check that sound works on the monitors beforehand. | Add Link Here |
 
+### Session Structure
+
+#### Option One: 1 hour session
+
+| Timing        | Facilitator Talking Points           | Participant Actions  |
+| ------------- | ------------- | ----- |
+| List the timing of each section      |  Describe facilitator talking points | What should participants be doing during this section? |
+| 5 minutes | Introduce the slide and read aloud: *If you have to sum up how you feel about stress, which statement would be more accurate? A. Stress is harmful and should be avoided, reduced, and managed. B. Stress is helpful and should be accepted, utilized, and empbraced. Which statement do you identify with and how do you currently deal with your stress? What strategies are you already using?* Have students reflect in their journals | Students answer question in journal |
+| 15 minutes | Show [TED Talk](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en) on your screen. Ensure that the sound works. Introduction: *We'll start this session today by watching a TED Talk by health psychologist Kelly McGonigal called "How to Make Stress Your Friend"* |  Students watch TED Talk |
+| 5 minutes | Introduce: *Today we'll discuss strategies for creating a more mindful approach to dealing with stress. The first step is to identify stress. Take 5 minutes to reflect on anything that may have caused you stress this week by writing about what the root cause might be in your journal.* | Students write in journals |
+| 7 minutes | Help students pair up: *You'll partner up with another student for some thought partner coaching. You'll share for 2 minutes uninterrupted about what is stressing you out, and your partner will listen with intention. After the 2 minutes, your partner will repeat back what they heard you say about the cause of your stress, and they may also ask you any clarifying questions. The purpose of this pair coaching is to reflect on what's really happening at the root of your stress.* Announce when 2 minutes is up to have partners switch; provide 1 minute of repeating back and question-asking, then announce for second partner to share. Then students get 1 minute to write any clarifying thoughts in their journals. While students are discussing, write on the board these possible sources of stress: *Pairing (navigating both people and code), Evals, Assessments, Time Management and Workload, Self-care, Time with Family/Friends.* | Students pair up, share with their partners, and write in their journals |
+| 20 minutes | Point out the possible sources of stress on the board, and invite students to add to it. Instruct students to self-select into groups based on those topics to discuss these questions: "How can you welcome the stress in this situation -- | Students... |
+| 8 minutes | The last 8 minutes are for goal-planning for the week ahead...  |  Students... |
+
+
+-20 mins: I'll write up possible sources of stress, students can add; Based on that, self-select into groups to work to discover how to welcome the stress (what do you care about? what are the positive feelings tied to the motivation?); Then, discuss how to make use of this positive energy -- how to realign with goals and values
+-9 mins: Goal-planning for the week ahead; who will hold you accountable?
+
+
+
+#### Grouping and/or activities
+  
+  * What should the group size be for discussions?
+  
+  
+  *How should groups be set up? (Recommend some meaningful grouping)
+
+
+#### Option Two: 2 hour Spike
+
+
+#### Grouping and/or activities
+  
+  * What should the group size be for discussions?
+  
+  
+  *How should groups be set up? (Recommend some meaningful grouping)
