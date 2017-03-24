@@ -25,7 +25,6 @@ Listed below are options for 2 possible introductory sessions:
 
 | Timing        | Facilitator Talking Points           | Participant Actions  |
 | ------------- | ------------- | ------------------------|
-
 | 5 minutes | Introduce the slide and read aloud: *If you have to sum up how you feel about stress, which statement would be more accurate? A. Stress is harmful and should be avoided, reduced, and managed. B. Stress is helpful and should be accepted, utilized, and empbraced. Which statement do you identify with and how do you currently deal with your stress? What strategies are you already using?* Have students reflect in their journals | Students answer question in journal |
 | 15 minutes | Show [TED Talk](http://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend?language=en) on your screen. Ensure that the sound works. Introduction: *We'll start this session today by watching a TED Talk by health psychologist Kelly McGonigal called "How to Make Stress Your Friend"* |  Students watch TED Talk |
 | 5 minutes | Introduce: *Today we'll discuss strategies for creating a more mindful approach to dealing with stress. The first step is to identify stress. Take 5 minutes to reflect on anything that may have caused you stress this week by writing about what the root cause might be in your journal.* | Students write in journals |
