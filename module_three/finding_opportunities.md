@@ -50,9 +50,9 @@ First, start with a place to track all of your job search research and to-dos. T
 Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board.
 
 #### Your Turn
-Set up your Trello boards now, starting with "Icebox," which will serve as your initial ideas to explore. 
+Create a "Job Tracker" Trellow board. Set up your lists, starting with "Icebox," which will serve as your initial ideas to explore. 
 
-Consider the others boards you may want to create, such as:
+Consider the others lists you may want to create, such as:
 
 * Potential Contacts
 * Contacts who have Responded
@@ -123,7 +123,7 @@ Often job seekers forget to Google the simplest of searches. Don't forget to res
 - Evaluate how you could build a connection with someone from that company
 
 ### Research Time
-Apply the steps we discussed above to creating more cards on your Trello board and get organized by adding companies to your Icebox board. 
+Apply the steps we discussed above to creating more cards on your Trello board and get organized by adding companies to your Icebox list. 
 
 As you go through and continue to track your job search, keep in mind to:
 
