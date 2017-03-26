@@ -4,8 +4,8 @@
 
 ### Objectives
 
-* Redefine how best to find job opportunities without limiting job search to job boards or job listings
-* Discuss more effectie job-searching strategies to include: Meetup, LinkedIn, cold outreach, boolean searches to produce more potential opportunities
+* Redefine how best to find job opportunities without limiting your search to job boards or job listings
+* Discuss more effective job-searching strategies such as Meetup, LinkedIn, cold outreach, boolean searches to produce more potential opportunities
 * Research companies and people to create a list of opportunities
 
 ### Deliverable
