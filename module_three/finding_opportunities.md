@@ -18,8 +18,8 @@ Now is the point in your Turing education to start on your job search, and throu
 * Hook (5 mins)
 * Opening (3 mins)
 * Set up Trello (7 mins)
-* Explore tools (30 mins)...
-* Research time (42 mins)
+* Explore tools (35 mins)
+* Research time (37 mins)
 * Closing (3 mins)
 
 ### Warm Up
@@ -50,7 +50,9 @@ First, start with a place to track all of your job search research and to-dos. T
 Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board.
 
 #### Your Turn
-Set up your Trello boards now, considering all of the boards you may want to create, such as:
+Set up your Trello boards now, starting with "Icebox," which will serve as your initial ideas to explore. 
+
+Consider the others boards you may want to create, such as:
 
 * Potential Contacts
 * Contacts who have Responded
@@ -60,7 +62,6 @@ Set up your Trello boards now, considering all of the boards you may want to cre
 * Coffee Meetings
 * Informational Interviews
 * Interviews
-* IceBox -- these can be ideas that don't fit in another category but that you might want to explore at a later time
 
 *Feel free to add more that are relevant to keeping you organized*
 
@@ -107,8 +108,28 @@ If you already have companies in mind that you would like to work with/for, don'
 - When you feel like you know what you need to, write a personalized connection message to them with a call to action. See *[Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md)* and look ahead at Module 4's *[Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md)* for some a refresher on tips for reaching out. 
 - You can also click on the company’s page and in the bottom right corner click: “People Also Viewed…” to find companies similar to this company.
 
+### Google... because it's as your fingertips
+Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases.
+
+#### Your Turn
+
+- Navigate to [Google](http://google.com)
+- Pick a location you’re interested in exploring opportunities.
+- Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]"
+- Look for a journalist-generated list of companies that are recommended in that area.
+- Pick a couple companies to look into with the students.
+- Walk through the about page, careers page, and team page
+- Research these people on LinkedIn, Twitter, and look for a personal blog by this person/people
+- Evaluate how you could build a connection with someone from that company
+
 ### Research Time
-Apply the steps we discussed above to creating more cards on your Trello board.
+Apply the steps we discussed above to creating more cards on your Trello board and get organized by adding companies to your Icebox board. 
+
+As you go through and continue to track your job search, keep in mind to:
+
+- Include the contact information for the individual you would like to build a connection with / have an informational interview with
+- Track the communication between you and the individual(s) at the company
+- Track the stage of the process you are currently in with the company
 
 ### Closing
 It's important to take the time now to organize your job search. Take these steps to make this process less daunting and empower yourself. Meg will use your Trello board to discuss next steps and tailored advice with you during career office hours and Module 4 1-on-1s. Reach out to her with any questions or to [set up a time to meet](https://megstew.youcanbook.me/index.jsp). Password: *complete*
