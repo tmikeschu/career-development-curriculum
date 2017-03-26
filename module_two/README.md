@@ -21,8 +21,8 @@ By mastering the objectives listed above, students will be able to put themselve
 * [BEE: Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/collaborative_communication.md)
 * [FEE: Project Management/Collaboration](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/agile_practices_project_management_intro.md) 
 * Gear Up 1: Empathy
-* Feedback II 
-* Crucial Conversations/Microaggressions Follow-Up 
+* [Feedback II](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/feedback_ii.md) 
+* Mindful Communication
 * Gear Up 2: Parable of the Polygon/Automation
 * Feedback III 
 * StrengthsFinder: Teamwork
