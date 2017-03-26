@@ -1,6 +1,6 @@
 # Finding Opportunities
 
-[Slides for this session](
+[Slides for this session](https://docs.google.com/presentation/d/1cMJwVIn7QY4txtLLUfGrb-gF1A9PuWxyVfJuSqeKE4U/edit?usp=sharing)
 
 ### Objectives
 
