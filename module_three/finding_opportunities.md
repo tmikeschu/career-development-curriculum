@@ -41,6 +41,7 @@ Let's start with these tools instead:
 * [LinkedIn](http://www.linkedin.com/)
 * [Google](http://www.google.com/)
 * [BuiltIn](http://builtin.com/)
+* [Training on LinkedIn from Skillful](https://www.linkedin.com/training)
 
 There are more tools listed at the bottom of this markdown for you to consider, and we'll also discuss how you can create a system to keep yourself organized through Trello. 
 
@@ -50,9 +51,9 @@ First, start with a place to track all of your job search research and to-dos. T
 Check out [this post](http://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process) for more on why Trello is a helpful tool for staying on top of your job search and to see an example of a job search board.
 
 #### Your Turn
-Create a "Job Tracker" Trellow board. Set up your lists, starting with "Icebox," which will serve as your initial ideas to explore. 
+Create a "Job Tracker" Trello board. Set up your lists, starting with "Icebox," which will serve as your initial ideas to explore. 
 
-Consider the others lists you may want to create, such as:
+Consider the other lists you may want to create, such as:
 
 * Potential Contacts
 * Contacts who have Responded
@@ -74,7 +75,7 @@ Meetup is traditionally used to find local networking groups. However, it can al
 
 #### Your Turn
 * Navigate to [Meetup.com](http://www.meetup.com/)
-* Using information from your Flower Exercise findings, search for groups local to the area you’re interested in working and in topics that you're interested in purusing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar").
+* Using information from your Flower Exercise findings, search for groups local to the area you’re interested in working and in topics that you're interested in pursuing (i.e. Ruby, JavaScript, etc.). Be sure to select "Groups" (not "Calendar").
 * On the group page, there are two things that will be very useful to your job search: 
     * Organizers list
     * Upcoming events
@@ -106,10 +107,16 @@ If you already have companies in mind that you would like to work with/for, don'
 - Then narrow it down by industry - "computer software."
 - Now click through the results and determine whom you feel you can build a relationship with. When you find one, research them.
 - When you feel like you know what you need to, write a personalized connection message to them with a call to action. See *[Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md)* and look ahead at Module 4's *[Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md)* for some a refresher on tips for reaching out. 
-- You can also click on the company’s page and in the bottom right corner click: “People Also Viewed…” to find companies similar to this company.
+- You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work. 
 
 ### Google... because it's as your fingertips
 Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases.
+
+**Resources for making the most of a Google search:**
+
+* [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
+- [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
+- [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
 
 #### Your Turn
 
@@ -117,10 +124,22 @@ Often job seekers forget to Google the simplest of searches. Don't forget to res
 - Pick a location you’re interested in exploring opportunities.
 - Search “top tech companies in [location]” / "top workplaces in [industry (edtech, fintech, etc.)]"
 - Look for a journalist-generated list of companies that are recommended in that area.
-- Pick a couple companies to look into with the students.
+- Pick a couple companies to look into.
 - Walk through the about page, careers page, and team page
 - Research these people on LinkedIn, Twitter, and look for a personal blog by this person/people
 - Evaluate how you could build a connection with someone from that company
+
+### Other Tools
+
+* BuiltIn -- located in Austin, Boston, Chicago, Colorado, LA, New York
+   * Create a profile -- there are 150 companies that are hiring in Colorado alone!
+* Training Opportunities from Skillful on LinkedIn
+   * Use the "See Jobs" button to generate a list of companies to learn about. 
+
+#### Your Turn
+
+* If you are interested in any of the 6 locations for BuiltIn, navigate to [BuiltIn](http://builtin.com/) to set up a profile
+* Explore the companies listed in Skillful's list
 
 ### Research Time
 Apply the steps we discussed above to creating more cards on your Trello board and get organized by adding companies to your Icebox list. 
@@ -141,12 +160,6 @@ It's important to take the time now to organize your job search. Take these step
 - [Twitter 101: A Tutorial for the Timid](https://www.themuse.com/advice/twitter-101-a-tutorial-for-the-timid)
 - [How to Not Suck at Twitter](https://www.themuse.com/advice/how-not-to-suck-at-twitter)
 - [5 Better Ways to Network on Twitter and LinkedIn](https://www.themuse.com/advice/5-better-ways-to-network-on-twitter-linkedin)
-
-#### Google Search Resources:
-
-- [25 Killer Combos for Google's Site: Operator](https://moz.com/blog/25-killer-combos-for-googles-site-operator)
-- [How to Use Google Search More Effectively](http://mashable.com/2011/11/24/google-search-infographic/)
-- [Boolean Black Belt-Sourcing/Recruiting](http://booleanblackbelt.com/)
 
 #### Additional sites 
 These are additional sites for finding opportunities, but *remember applying blind is less effective than finding someone.* Use these sites to find companies that are hiring, then go back through the steps listed above before applying to positions:
