@@ -109,7 +109,7 @@ If you already have companies in mind that you would like to work with/for, don'
 - When you feel like you know what you need to, write a personalized connection message to them with a call to action. See *[Cold Outreach I](https://github.com/turingschool/career-development-curriculum/blob/master/module_two/cold_outreach_i.md)* and look ahead at Module 4's *[Cold Outreach II](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/cold_outreach_ii.md)* for some a refresher on tips for reaching out. 
 - You can also click on the company’s page and on the right side, view "Similar Companies" where your connections work. 
 
-### Google... because it's as your fingertips
+### Google... because it's at your fingertips
 Often job seekers forget to Google the simplest of searches. Don't forget to research even the simplest of phrases.
 
 **Resources for making the most of a Google search:**
